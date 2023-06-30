@@ -2,7 +2,7 @@
 
 
 ## Workflow for Supervised Probes
-For supervised probes, the code is largely based on Azaria and Mitchell's implementation for their paper [`The Internal State of an LLM Knows When It's Lying.'](https://arxiv.org/abs/2304.13734)
+For supervised probes, the code is largely based on Azaria and Mitchell's implementation for their paper [`The Internal State of an LLM Knows When It's Lying.'](https://arxiv.org/abs/2304.13734). Datasets used were also theirs, or based on theirs.
 
 1. `GenerateEmbeddings.py` or `LLaMa_generate_embeddings.py` on selected datasets to get the embeddings for the last token at specified layer(s) for a specified model. You can use config.json or commandline arguments. Will save CSV files with the embeddings. Make sure to get embeddings for labeled datasets so the probes can be trained. The latter file implements functionality for LLaMA, but since those models aren't fully publicly available, the implementation won't work generally.
 2. `TrainProbes.py` to train the probes on selected datasets that contain embeddings. You can specify lots of parameters in the config file or with commandline flags. The script will test the probes on a different dataset from the training datasets and save the best (by accuracy) probes.
