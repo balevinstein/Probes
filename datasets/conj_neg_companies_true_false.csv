@@ -1,0 +1,551 @@
+statement,label
+"CITIC operates in the industry of Banking, and Hyundai Motor doesn't have headquarters in South Korea.",0
+"Brookfield Asset Management operates in the industry of Consumer Durables, and PNC Financial Services doesn't operate in the industry of banking.",0
+"Univlever engages in the provision of banking and financial solutions, and SoftBank doesn't operate in the industry of telecommunications services.",0
+"Chevron operates in the industry of Banking, and Deutsche Telekom doesn't have headquarters in Germany.",0
+"Shanghai Pudong Development Bank provides banking and financial services, and Prudential Financial doesn't have headquarters in United States.",0
+"Stellantis doesn't operate in the industry of Food, Drink & Tobacco, and American Express has headquarters in France.",0
+"Bristol Myers Squibb engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products, and Postal Savings Bank of China doesn't operate in the industry of banking.",0
+"Agricultural Bank of China operates in the industry of Food, Drink & Tobacco, and Pfizer operates in the industry of insurance.",0
+"Mitsui doesn't engage in the designing, manufacturing, and selling of cars, trucks and automobile parts, and Intesa Sanpaolo doesn't operate as a financial holding company that engages in the provision of financial products and services.",1
+"Saudi Arabian Oil Company (Saudi Aramco) doesn't have headquarters in Saudi Arabia, and The Home Depot operates in the industry of retailing.",0
+"Prudential Financial engages in the provision of financial products and services including life insurance, annuities, mutual funds, and investment management to both individual and institutional customers, and Prudential Financial doesn't operate in the industry of diversified financials.",0
+"National Australia Bank engages in the provision of banking and financial services, and Truist Financial has headquarters in United Kingdom.",0
+"Shanghai Pudong Development Bank provides banking and financial services, and ENGIE operates in the industry of oil & gas operations.",1
+"Mitsubishi UFJ Financial Group doesn't have headquarters in Japan, and Itau Unibanco Holding has headquarters in China.",0
+"Accenture doesn't operate in the industry of it software & services, and China Life Insurance doesn't have headquarters in China.",0
+"Cathay Financial doesn't have headquarters in Taiwan, and Dow doesn't have headquarters in Italy.",0
+"UnitedHealth Group doesn't have headquarters in United States, and Visa operates in the industry of business services & supplies.",0
+"Stellantis has headquarters in Netherlands, and Alibaba Group doesn't engage in providing online and mobile marketplaces in retail and wholesale trade.",0
+"Enbridge doesn't have headquarters in United States, and Toronto-Dominion Bank doesn't operate in the industry of banking.",0
+"Munich Reinsurance doesn't operate in the industry of insurance, and Goldman Sachs Group has headquarters in United States.",0
+"Verizon Communications doesn't have headquarters in Japan, and Ping An Insurance (Group) Company of China has headquarters in France.",0
+"PepsiCo operates in the industry of food, drink & tobacco, and The Home Depot doesn't operate in the industry of retailing.",0
+"Generali Group doesn't have headquarters in Italy, and Hon Hai Precision doesn't operate in the industry of technology hardware & equipment.",0
+"The Home Depot isn't the world's largest home improvement specialty retailer, and General Motors engages in the designing, manufacturing, and selling of cars, trucks and automobile parts.",0
+"KDDI has headquarters in India, and Target isn't a holding company, which engages in the provision of financial services.",0
+"Nestle has headquarters in Switzerland, and It's not true that Capital One engages in the provision of corporate and personal banking services, financial lease, assets custody services and conducting treasury business.",1
+"AXA has headquarters in France, and Chubb doesn't have headquarters in China.",1
+"Nestle doesn't have headquarters in Switzerland, and Apple engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services.",0
+"Bank of China doesn't engage in the exploration, development, production and sale of crude oil & gas. It doesn't involve in refining, transportation, and sale of petroleum products, and SAP operates in the industry of it software & services.",1
+"Truist Financial operates as a financial holding company, which engages in the provision of banking services to individuals, businesses and municipalities, and Deutsche Post operates in the industry of transportation.",1
+"Oracle doesn't operate in the industry of Consumer Durables, and Chevron doesn't have headquarters in Germany.",1
+"Cisco Systems doesn't have headquarters in Japan, and Merck & Co. has headquarters in Drugs & Biotechnology.",0
+"Volkswagen Group doesn't engage in the production and sale of passenger cars and light commercial vehicles, and Sberbank doesn't have headquarters in Russia.",0
+"Wells Fargo doesn't operate in the industry of banking, and BHP Group has headquarters in Australia.",0
+"Bank of China doesn't engage in the provision of banking and financial services, and Rio Tinto has headquarters in France.",0
+"SAP operates in the industry of it software & services, and HSBC Holdings isn't a health care services company, it doesn't engage in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers.",1
+"Intesa Sanpaolo operates as a financial holding company that engages in the provision of financial products and services, and SoftBank operates in the industry of telecommunications services.",0
+"KDDI engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals, and ENGIE has headquarters in United States.",0
+"BlackRock doesn't engage in providing investment management, risk management, and advisory services for institutional and retail clients worldwide, and It's not true that Goldman Sachs Group is a holding company that engages in the provision of telecommunications media and technology service.",0
+"Oracle has headquarters in United States, and National Australia Bank doesn't operate in the industry of banking.",0
+"VINCI operates in the industry of Insurance, and Walgreens has headquarters in United States.",0
+"Bank of China engages in the provision of banking and financial services, and Anglo American isn't a mining company, which engages in the exploration and mining of precious base metals and ferrous metals.",0
+"Alibaba Group doesn't have headquarters in China, and CNOOC has headquarters in Hong Kong.",0
+"Siemens operates in the industry of conglomerates, and Exxon Mobil doesn't have headquarters in United States.",0
+"Capital One operates in the industry of banking, and ANZ operates in the industry of Semiconductors.",0
+"Toronto-Dominion Bank operates in the industry of banking, and LukOil has headquarters in China.",0
+"Bank of China engages in the exploration, development, production and sale of crude oil & gas. It also involves in refining, transportation, and sale of petroleum products, and Exxon Mobil doesn't operate in the industry of Household & Personal Products.",0
+"Siemens engages in property development, commodity residential building distribution, and property management, and Credit Agricole doesn't have headquarters in Australia.",0
+"Airbus Group doesn't engage in the design, manufacture, delivery and provision of aerospace products, space and related services, and Goldman Sachs Group operates in the industry of diversified financials.",0
+"Dell Technologies has headquarters in France, and Dell Technologies doesn't operate in the industry of Media.",0
+"JPMorgan Chase doesn't operate as a holding company that engages in the management of its group companies, and Alibaba Group doesn't operate in the industry of retailing.",0
+"Costco Wholesale doesn't engage in the operation of membership warehouses, and Chevron doesn't have headquarters in Germany.",0
+"BNP Paribas has headquarters in China, and Mitsui engages in the designing, manufacturing, and selling of cars, trucks and automobile parts.",0
+"Chevron has headquarters in Germany, and Sumitomo Mitsui Financial has headquarters in China.",0
+"Cathay Financial has headquarters in Taiwan, and Linde doesn't have headquarters in United States.",1
+"Visa engages in the provision of insurance and investment advisory services, and Nestle engages in the production and distribution of cars, trucks and vans.",0
+"The Home Depot engages in the provision of telecommunication and information technology services, and Rio Tinto doesn't operate in the industry of materials.",0
+"Deutsche Telekom doesn't have headquarters in Germany, and British American Tobacco operates as a global financial services company.",0
+"The Home Depot is the world's largest home improvement specialty retailer, and Sumitomo Mitsui Financial doesn't operate in the industry of banking.",0
+"PepsiCo operates in the industry of food, drink & tobacco, and Lockheed Martin has headquarters in Ireland.",0
+"Sberbank doesn't operate in the industry of banking, and Bank of America doesn't operate in the industry of Aerospace & Defense.",0
+"BlackRock engages in providing investment management, risk management, and advisory services for institutional and retail clients worldwide, and Ford Motor engages in the manufacture, distribution and sale of automobiles.",1
+"Bank of Nova Scotia doesn't have headquarters in Canada, and Bayerische Motoren Werke (BMW) engages in the manufacture and sale of automobiles and motorcycles.",0
+"HSBC Holdings doesn't have headquarters in United Kingdom, and Verizon Communications engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",0
+"Sberbank provides commercial banking and financial services, and Broadcom doesn't engage in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity.",1
+"BHP Group doesn't have headquarters in Australia, and Stellantis doesn't have headquarters in Netherlands.",0
+"Sberbank operates in the industry of banking, and KDDI doesn't have headquarters in India.",1
+"Tencent Holdings doesn't operate in the industry of it software & services, and Samsung Group doesn't have headquarters in South Korea.",0
+"Exxon Mobil operates in the industry of Household & Personal Products, and Bank of China has headquarters in China.",0
+"Caterpillar has headquarters in Rome, and State Bank of India operates in the industry of Oil & Gas Operations.",0
+"Cathay Financial doesn't operate in the industry of Chemicals, and Target is a holding company, which engages in the provision of financial services.",0
+"Hitachi doesn't have headquarters in Japan, and China Shenhua Energy doesn't have headquarters in China.",0
+"Ford Motor doesn't have headquarters in United States, and China Vanke has headquarters in Australia.",0
+"Poly Developments & Holdings Group doesn't operate as a holding company that engages in the provision of insurance and asset management services, and Pfizer operates in the industry of insurance.",0
+"Deere & Company doesn't have headquarters in United States, and Nestle has headquarters in Switzerland.",0
+"Barclays doesn't operate in the industry of banking, and Micron Technology doesn't have headquarters in United States.",0
+"Sberbank doesn't operate in the industry of banking, and Lockheed Martin engages in the manufacture, distribution and sale of automobiles.",0
+"Capital One operates as a financial holding company that engages in the provision of financial products and services, and SK Hynix doesn't operate in the industry of Conglomerates.",1
+"America Movil doesn't have headquarters in Switzerland, and Nestle doesn't engage in the production and distribution of cars, trucks and vans.",1
+"GlaxoSmithKline is a holding company that engages in the provision of financial management solutions, and SK Hynix doesn't operate in the industry of semiconductors.",0
+"FedEx has headquarters in United States, and Pfizer has headquarters in United States.",1
+"It's not true that Goldman Sachs Group is a holding company that engages in the provision of telecommunications media and technology service, and Pfizer doesn't have headquarters in United States.",0
+"China Telecom engages in the provision of telecommunication services, and MetLife doesn't operate in the industry of insurance.",0
+"Mitsui engages in the designing, manufacturing, and selling of cars, trucks and automobile parts, and Merck & Co. doesn't have headquarters in Drugs & Biotechnology.",0
+"Cathay Financial doesn't engage in the provision of financial services, and Nestle engages in the production and distribution of cars, trucks and vans.",0
+"Thermo Fisher Scientific doesn't operate in the industry of healthcare equipment & services, and Poly Developments & Holdings Group engages in property development, commodity residential building distribution, and property management.",0
+"KDDI engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals, and PNC Financial Services has headquarters in United States.",0
+"Chevron operates in the industry of oil & gas operations, and Citigroup isn't a holding company that engages in the provision of financial products and services.",0
+"It's not true that HDFC Bank operates in the industry of Banking, and Enbridge operates in the industry of Insurance.",0
+"Brookfield Asset Management operates in the industry of Consumer Durables, and Nippon Telegraph & Telephone doesn't engage in the provision of banking and financial services.",0
+"Cathay Financial doesn't operate in the industry of Chemicals, and China Shenhua Energy operates in the industry of Transportation.",0
+"Intesa Sanpaolo operates in the industry of Trading Companies, and BlackRock doesn't have headquarters in United States.",0
+"ENGIE engages in the provision of electricity, natural gas, and energy related services, and Ford Motor doesn't have headquarters in United States.",0
+"GlaxoSmithKline has headquarters in Germany, and Thermo Fisher Scientific doesn't have headquarters in South Korea.",0
+"UBS Group isn't a holding company that engages in the provision of financial management solutions, and Walgreens has headquarters in United States.",0
+"SK Hynix operates in the industry of semiconductors, and Johnson & Johnson is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field.",1
+"Accenture engages in the provision of management consulting, technology, and outsourcing services, and Nestle doesn't engage in the production and distribution of cars, trucks and vans.",1
+"Lockheed Martin has headquarters in Ireland, and Costco Wholesale doesn't operate in the industry of retailing.",0
+"China Construction Bank doesn't operate in the industry of banking, and It's not true that KDDI operates in the industry of Materials.",0
+"Shanghai Pudong Development Bank operates in the industry of Banking, and AbbVie (ABBV) doesn't have headquarters in United States.",0
+"Rio Tinto doesn't have headquarters in France, and Shell doesn't engage in oil and natural gas production.",0
+"ENGIE doesn't have headquarters in France, and Alphabet operates in the industry of Oil & Gas Operations.",0
+"Nestle doesn't engage in the production and distribution of cars, trucks and vans, and National Australia Bank engages in the provision of banking and financial services.",1
+"Hyundai Motor operates in the industry of Technology, and Barclays doesn't operate in the industry of Retailing.",0
+"Honeywell has headquarters in United States, and Shanghai Pudong Development Bank operates in the industry of Banking.",0
+"China Shenhua Energy operates in the industry of Transportation, and Raytheon Technologies doesn't operate in the industry of Banking.",0
+"Verizon Communications engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals, and National Australia Bank has headquarters in Australia.",0
+"Bank of Communications has headquarters in China, and CNOOC doesn't have headquarters in Japan.",1
+"Siemens doesn't operate in the industry of Oil & Gas Operations, and The Home Depot doesn't engage in the provision of telecommunication and information technology services.",1
+"Walt Disney is not a diversified international family entertainment and media enterprise, and Shanghai Pudong Development Bank operates in the industry of Banking.",0
+"LVMH Moet Hennessy Louis Vuitton operates in the industry of household & personal products, and Mitsubishi UFJ Financial Group has headquarters in Japan.",1
+"Toronto-Dominion Bank provides financial products and services, and Linde engages in the production and distribution of industrial gases.",1
+"Wells Fargo operates in the industry of banking, and Lloyds Banking Group doesn't operate in the industry of Consumer Durables.",1
+"Bayerische Motoren Werke (BMW) engages in the manufacture and sale of automobiles and motorcycles, and Enbridge has headquarters in United States.",0
+"Stellantis doesn't have headquarters in Netherlands, and Prudential Financial operates in the industry of Oil & Gas Operations.",0
+"SK Hynix has headquarters in China, and PNC Financial Services operates in the industry of banking.",0
+"Intesa Sanpaolo operates in the industry of Trading Companies, and Itochu engages in business of product trading and business investment activities.",0
+"It's not true that Postal Savings Bank of China operates in the industry of Consumer Durables, and Dow has headquarters in Italy.",0
+"China Mobile engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks, and PepsiCo doesn't have headquarters in the United States.",0
+"China Citic Bank doesn't produce and market fuels, natural gas and low-carbon electricity, and Caterpillar engages in the manufacture of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.",1
+"Nestle has headquarters in Mexico, and Equinor doesn't operate in the industry of oil & gas operations.",0
+"Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services, and BHP Group doesn't provide insurance and financial services to individual and institutional customers.",0
+"Oracle operates in the industry of it software & services, and ENGIE engages in the provision of banking and financial services.",0
+"Siemens doesn't engage in property development, commodity residential building distribution, and property management, and American International Group doesn't have headquarters in Ireland.",1
+"Sony doesn't engage in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets, and Johnson & Johnson is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field.",0
+"Prudential Financial engages in the provision of financial products and services including life insurance, annuities, mutual funds, and investment management to both individual and institutional customers, and Costco Wholesale operates in the industry of Materials.",0
+"Novartis operates in the industry of Banking, and Charter Communications doesn't engage in the provision of financial products and services, including personal, commercial, corporate, and investment banking.",0
+"Munich Reinsurance engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products, and Deere & Company doesn't have headquarters in United States.",0
+"It's not true that Mitsubishi UFJ Financial Group operates in the industry of Banking, and Goldman Sachs Group doesn't have headquarters in United States.",0
+"It's not true that Mitsubishi UFJ Financial Group operates in the industry of Banking, and BNP Paribas has headquarters in China.",0
+"Target isn't a holding company, which engages in the provision of financial services, and BHP Group has headquarters in Canada.",0
+"Moller - Maersk operates in the industry of transportation, and Prudential Financial doesn't have headquarters in United States.",0
+"Visa operates in the industry of business services & supplies, and Postal Savings Bank of China doesn't have headquarters in China.",0
+"Mitsubishi UFJ Financial Group operates in the industry of Banking, and Toronto-Dominion Bank has headquarters in United States.",0
+"Sberbank has headquarters in Russia, and Alibaba Group doesn't engage in providing online and mobile marketplaces in retail and wholesale trade.",0
+"Apple doesn't engage in the provision of banking and related financial services, and American International Group doesn't have headquarters in United States.",0
+"Poly Developments & Holdings Group engages in property development, commodity residential building distribution, and property management, and Banco Bradesco engages in the provision of financial and insurance services.",1
+"BP operates as an integrated oil and gas company, and Walt Disney has headquarters in United States.",1
+"Alphabet is a holding company, which engages in the business of acquisition and operation of different companies, and Tencent Holdings doesn't operate in the industry of Retailing.",1
+"Anglo American is a mining company, which engages in the exploration and mining of precious base metals and ferrous metals, and America Movil operates in the industry of telecommunications services.",1
+"Saudi Arabian Oil Company (Saudi Aramco) doesn't operate in the industry of Trading Companies, and CNOOC has headquarters in Japan.",0
+"China Vanke doesn't engage in the development and sale of properties, and Sanofi engages in the manufacture and sale of semiconductor products.",0
+"Fubon Financial engages in the provision of financial services, and Tencent Holdings doesn't operate in the industry of Retailing.",1
+"Apple doesn't engage in the provision of banking and related financial services, and The Home Depot doesn't have headquarters in United States.",0
+"It's not true that Novartis operates in the industry of Banking, and HCA Healthcare isn't a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers.",0
+"China Mobile engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks, and Goldman Sachs Group doesn't operate in the industry of diversified financials.",0
+"UBS Group isn't a holding company that engages in the provision of financial management solutions, and Procter & Gamble isn't the world's largest home improvement specialty retailer.",0
+"Enel doesn't operate in the industry of electricity & gas, and CNOOC has headquarters in Hong Kong.",0
+"Novartis doesn't have headquarters in Japan, and Deutsche Post doesn't operate in the industry of transportation.",0
+"Telefonica doesn't have headquarters in Spain, and ENGIE doesn't operate in the industry of Drugs & Biotechnology.",0
+"Nestle operates in the industry of Banking, and Prudential Financial engages in the provision of financial products and services including life insurance, annuities, mutual funds, and investment management to both individual and institutional customers.",0
+"JPMorgan Chase is a financial holding company. It provides financial and investment banking services, and Cisco Systems doesn't have headquarters in Japan.",1
+"The Home Depot doesn't have headquarters in United States, and Hon Hai Precision doesn't have headquarters in Taiwan.",0
+"AbbVie (ABBV) doesn't have headquarters in United States, and Brookfield Asset Management operates in the industry of diversified financials.",0
+"Mitsubishi UFJ Financial Group has headquarters in Canada, and Ford Motor engages in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products.",0
+"BBVA doesn't have headquarters in Spain, and Lloyds Banking Group is a financial services company, which engages in the provision of a wide range of banking and financial services.",0
+"Pfizer doesn't engage in the discovery, development, manufacturing, marketing, distribution, and selling of biopharmaceutical products worldwide, and Visa doesn't operate in the industry of business services & supplies.",0
+"PetroChina operates in the industry of Insurance, and Thermo Fisher Scientific operates in the industry of healthcare equipment & services.",0
+"Fubon Financial doesn't have headquarters in Taiwan, and Comcast doesn't operate in the industry of Banking.",0
+"Walmart operates in the industry of retailing, and Chubb doesn't have headquarters in China.",1
+"Postal Savings Bank of China operates in the industry of banking, and Lockheed Martin doesn't engage in the manufacture, distribution and sale of automobiles.",1
+"Dow doesn't have headquarters in Italy, and Iberdrola is a holding company that engages in the generation, distribution, trading and marketing of electricity.",1
+"China Vanke engages in the development and sale of properties, and Shanghai Pudong Development Bank operates in the industry of banking.",1
+"Deutsche Telekom engages in the provision of telecommunication and information technology services, and Linde operates in the industry of chemicals.",1
+"Ford Motor engages in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products, and Tesla has headquarters in Canada.",0
+"Morgan Stanley has headquarters in South Korea, and BHP Group doesn't engage in the exploration, development, production, and processing of iron ore, metallurgical coal, and copper.",0
+"Walt Disney is a diversified international family entertainment and media enterprise, and Mitsubishi has headquarters in Japan.",1
+"Agricultural Bank of China operates in the industry of Food, Drink & Tobacco, and Capital One engages in the provision of corporate and personal banking services, financial lease, assets custody services and conducting treasury business.",0
+"Volkswagen Group doesn't operate as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management, and UBS Group isn't a holding company that engages in the provision of financial management solutions.",0
+"AT&T engages in business of product trading and business investment activities, and Comcast doesn't have headquarters in Taiwan.",0
+"Agricultural Bank of China operates in the industry of Food, Drink & Tobacco, and Deutsche Telekom doesn't operate as a financial holding company that engages in the provision of financial products and services.",0
+"Rosneft doesn't operate in the industry of Gas & Oil Operations, and Caterpillar operates in the industry of Trading Companies.",0
+"Goldman Sachs Group engages in global investment banking, securities and investment management, which provides financial services, and Honda Motor engages in oil and gas exploration, production, and distribution activities.",0
+"Nestle engages in the production and distribution of cars, trucks and vans, and Walgreens doesn't have headquarters in United States.",0
+"ArcelorMittal doesn't have headquarters in Canada, and JPMorgan Chase is a financial holding company. It provides financial and investment banking services.",1
+"Tencent Holdings doesn't have headquarters in China, and Tencent Holdings is an investment company that engages in the provision of value-added services and online advertising services.",0
+"Anthem engages in the provision of products and services that address all aspects of corporate information technology environments, and HSBC Holdings isn't a health care services company, it doesn't engage in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers.",0
+"Wells Fargo has headquarters in Saudi Arabia, and BP doesn't operate as an integrated oil and gas company.",0
+"BBVA doesn't operate in the industry of banking, and Honeywell doesn't operate in the industry of IT Software & Services.",0
+"CNOOC isn't a diversified, community-based financial services company, and Lockheed Martin has headquarters in United States.",1
+"CITIC engages in the following business activities: housing construction, real estate development and investment, infrastructure construction and investment, prospecting and design, and overseas industries, and GlaxoSmithKline has headquarters in Germany.",0
+"Wells Fargo is a diversified, community-based financial services company, and Bank of Communications engages in the provision of banking and financial services.",1
+"Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services, and Enbridge doesn't have headquarters in United States.",0
+"GlaxoSmithKline has headquarters in Germany, and Tokio Marine Holdings operates in the industry of Retailing.",0
+"American International Group has headquarters in United States, and China Life Insurance doesn't have headquarters in Germany.",1
+"Bank of Nova Scotia doesn't have headquarters in Canada, and Alibaba Group has headquarters in China.",0
+"Mitsubishi operates in the industry of Banking, and American International Group doesn't engage in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers.",0
+"SK Hynix operates in the industry of Conglomerates, and Exxon Mobil doesn't have headquarters in United States.",0
+"Oracle doesn't operate in the industry of it software & services, and Telefonica engages in the provision of communication, information and entertainment solutions.",0
+"Ford Motor engages in the manufacture, distribution and sale of automobiles, and Citigroup is a holding company that engages in the provision of financial products and services.",1
+"Public Joint Stock Company Gazprom has headquarters in Russia, and Capital One doesn't operate in the industry of banking.",0
+"Raytheon Technologies has headquarters in China, and Shell doesn't engage in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products.",0
+"Itochu engages in business of product trading and business investment activities, and ArcelorMittal has headquarters in Canada.",0
+"Oracle operates in the industry of it software & services, and Sony doesn't engage in the provision of digital payment services. It also doesn't facilitate global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities.",1
+"Industrial Bank operates in the industry of banking, and Dow has headquarters in Italy.",0
+"Exxon Mobil doesn't engage in the exploration, development, and distribution of oil, gas, and petroleum products, and State Bank of India doesn't engage in the provision of commercial banking services.",0
+"Eni doesn't have headquarters in Switzerland, and Canadian Imperial Bank of Commerce doesn't operate in the industry of Materials.",1
+"Sanofi engages in the manufacture and sale of semiconductor products, and Japan Post Holdings doesn't have headquarters in United States.",0
+"Munich Reinsurance doesn't have headquarters in Germany, and Visa doesn't have headquarters in United States.",0
+"KDDI has headquarters in India, and ENGIE doesn't have headquarters in United States.",0
+"Brookfield Asset Management operates in the industry of Consumer Durables, and Rosneft doesn't have headquarters in United States.",0
+"Lockheed Martin engages in the manufacture, distribution and sale of automobiles, and Stellantis operates in the industry of Food, Drink & Tobacco.",0
+"Rosneft operates in the industry of Gas & Oil Operations, and Itau Unibanco Holding doesn't have headquarters in Brazil.",0
+"Pfizer engages in the provision of insurance and financial products, and Poly Developments & Holdings Group doesn't engage in property development, commodity residential building distribution, and property management.",0
+"Total produces and markets fuels, natural gas and low-carbon electricity, and Charter Communications doesn't operate in the industry of media.",0
+"Ping An Insurance (Group) Company of China doesn't have headquarters in France, and Chevron operates in the industry of oil & gas operations.",1
+"Capital One operates as a financial holding company that engages in the provision of financial products and services, and Verizon Communications has headquarters in United States.",1
+"Prudential Financial has headquarters in United States, and Capital One doesn't operate in the industry of banking.",0
+"Apple doesn't have headquarters in United States, and PNC Financial Services doesn't engage in the operation of membership warehouses.",0
+"China Shenhua Energy has headquarters in China, and ConocoPhillips operates in the industry of Semiconductors.",0
+"UnitedHealth Group engages in the provision of healthcare coverage, software and data consultancy services, and GlaxoSmithKline has headquarters in Germany.",0
+"China Telecom doesn't engage in the provision of telecommunication services, and Mercedes-Benz Group has headquarters in Germany.",0
+"Manulife doesn't operate in the industry of insurance, and China Citic Bank doesn't operate in the industry of banking.",0
+"Johnson & Johnson is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field, and Broadcom isn't a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions.",0
+"Volkswagen Group doesn't operate in the industry of consumer durables, and Sberbank operates in the industry of Consumer Durables.",0
+"The Home Depot operates in the industry of retailing, and Enbridge doesn't operate in the industry of Insurance.",1
+"Volkswagen Group doesn't engage in the production and sale of passenger cars and light commercial vehicles, and IBM isn't an information technology company, which provides integrated solutions that leverage information technology and knowledge of business processes.",0
+"Industrial and Commercial Bank of China has headquarters in Germany, and BASF engages in the provision of chemical products.",0
+"Oracle doesn't engage in the provision of products and services that address all aspects of corporate information technology environments, and SK Hynix doesn't operate in the industry of semiconductors.",0
+"ConocoPhillips operates in the industry of Semiconductors, and Caterpillar operates in the industry of Trading Companies.",0
+"It's not true that HDFC Bank operates in the industry of Banking, and China Vanke doesn't have headquarters in Australia.",1
+"Munich Reinsurance doesn't engage in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products, and Airbus Group engages in the design, manufacture, delivery and provision of aerospace products, space and related services.",1
+"China Life Insurance has headquarters in Germany, and Target has headquarters in United States.",0
+"Tencent Holdings doesn't operate in the industry of Retailing, and Mitsui doesn't engage in the designing, manufacturing, and selling of cars, trucks and automobile parts.",1
+"Nestle is a nutrition, health and wellness company that engages in the manufacture, supply and production of prepared dishes and cooking aids, milk-based products, pharmaceuticals and ophthalmic goods, baby foods and cereals, and Barclays doesn't operate as a bank holding company that engages in the business of providing retail banking, credit cards, corporate and investment banking and wealth management services.",0
+"Electricite de France has headquarters in France, and America Movil engages in the provision of telecommunications services.",1
+"Tokio Marine Holdings operates in the industry of Retailing, and Intesa Sanpaolo doesn't operate as a financial holding company that engages in the provision of financial products and services.",0
+"China Shenhua Energy doesn't engage in the production and marketing of metal, mineral, and energy and agricultural commodities, and Manulife has headquarters in Canada.",1
+"Volkswagen Group operates in the industry of consumer durables, and Postal Savings Bank of China doesn't operate in the industry of banking.",0
+"CNOOC has headquarters in Japan, and Sberbank operates in the industry of Consumer Durables.",0
+"CVS Health doesn't engage in the provision of financial products and services, and Raytheon Technologies has headquarters in China.",0
+"Alphabet operates in the industry of it software & services, and Deutsche Post has headquarters in Germany.",1
+"BHP Group provides insurance and financial services to individual and institutional customers, and Munich Reinsurance doesn't engage in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products.",0
+"Raytheon Technologies doesn't have headquarters in China, and Intesa Sanpaolo has headquarters in Italy.",1
+"Apple engages in the provision of banking and related financial services, and Nestle engages in the production and distribution of cars, trucks and vans.",0
+"GlaxoSmithKline has headquarters in Germany, and Eni doesn't have headquarters in Switzerland.",0
+"Fubon Financial operates in the industry of insurance, and Shell doesn't operate in the industry of oil & gas operations.",0
+"Itochu has headquarters in United States, and Cisco Systems doesn't have headquarters in Japan.",0
+"Capital One operates in the industry of banking, and Deere & Company doesn't engage in the manufacturing and distribution of equipment used in agriculture, construction, forestry, and turf care.",0
+"Electricite de France engages in power generation, transmission, distribution, supply and trading activities, and Volkswagen Group operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management.",0
+"China Mobile engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks, and China Life Insurance doesn't have headquarters in Germany.",0
+"Linde doesn't have headquarters in United States, and Moller - Maersk doesn't engage in shipping, energy, transportation, offshore drilling, and retail activities.",0
+"Walmart has headquarters in Taiwan, and Eni isn't a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions.",0
+"Chubb doesn't have headquarters in China, and Sony doesn't have headquarters in United States.",1
+"Oracle operates in the industry of it software & services, and Japan Post Holdings doesn't have headquarters in United States.",1
+"Itochu doesn't have headquarters in United States, and PNC Financial Services engages in the operation of membership warehouses.",0
+"AT&T operates in the industry of telecommunications services, and China Mobile doesn't have headquarters in Russia.",1
+"It's not true that Goldman Sachs Group is a holding company that engages in the provision of telecommunications media and technology service, and Sberbank operates in the industry of Consumer Durables.",0
+"Telefonica doesn't have headquarters in France, and America Movil doesn't have headquarters in Switzerland.",1
+"Broadcom isn't a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions, and The Home Depot doesn't engage in the provision of telecommunication and information technology services.",0
+"Sberbank doesn't provide commercial banking and financial services, and Alphabet operates in the industry of Oil & Gas Operations.",0
+"Sony engages in the provision of digital payment services. It also facilitates global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities, and ConocoPhillips doesn't operate in the industry of Semiconductors.",0
+"Deutsche Post doesn't operate in the industry of transportation, and Citigroup is a holding company that engages in the provision of financial products and services.",0
+"Mitsubishi doesn't have headquarters in Japan, and Raytheon Technologies doesn't operate in the industry of Banking.",0
+"Mitsubishi doesn't operate in the industry of trading companies, and Lockheed Martin doesn't operate in the industry of aerospace & defense.",0
+"IBM has headquarters in United States, and Truist Financial doesn't operate in the industry of Banking.",1
+"Telefonica has headquarters in France, and Oracle doesn't engage in the provision of products and services that address all aspects of corporate information technology environments.",0
+"Rio Tinto has headquarters in France, and Pfizer doesn't engage in the provision of insurance and financial products.",0
+"Caterpillar doesn't have headquarters in Rome, and Brookfield Asset Management operates in the industry of Consumer Durables.",0
+"Deutsche Post engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services, and AXA doesn't engage in providing online and mobile marketplaces in retail and wholesale trade.",0
+"Postal Savings Bank of China doesn't have headquarters in United States, and CNOOC is a diversified, community-based financial services company.",0
+"Charter Communications doesn't engage in the provision of financial products and services, including personal, commercial, corporate, and investment banking, and Sberbank doesn't operate in the industry of banking.",0
+"Sony operates in the industry of Banking, and Hon Hai Precision doesn't operate in the industry of technology hardware & equipment.",0
+"China Construction Bank doesn't have headquarters in United States, and Santander has headquarters in Spain.",1
+"Moller - Maersk operates in the industry of transportation, and Prudential Financial operates in the industry of diversified financials.",1
+"UnitedHealth Group doesn't operate in the industry of Diversified Financials, and Medtronic doesn't have headquarters in Ireland.",0
+"Munich Reinsurance doesn't engage in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products, and Comcast operates in the industry of Banking.",0
+"State Bank of India engages in the provision of commercial banking services, and U.S. Bancorp has headquarters in South Korea.",0
+"Toyota Motor has headquarters in United States, and SK Hynix doesn't operate in the industry of Conglomerates.",0
+"Iberdrola isn't a holding company that engages in the generation, distribution, trading and marketing of electricity, and Exxon Mobil doesn't engage in the exploration, development, and distribution of oil, gas, and petroleum products.",0
+"Wells Fargo doesn't have headquarters in United States, and Amazon.com doesn't operate in the industry of retailing.",0
+"Stellantis doesn't have headquarters in United States, and Caterpillar doesn't have headquarters in Rome.",1
+"Medtronic doesn't have headquarters in Ireland, and Taiwan Semiconductor Manufacturing Company doesn't engage in the design, development, manufacture, and sale of fully electric vehicles, energy generation and storage systems.",0
+"Saudi Arabian Oil Company (Saudi Aramco) doesn't have headquarters in Saudi Arabia, and VINCI doesn't operate in the industry of construction.",0
+"BASF doesn't engage in the provision of chemical products, and LVMH Moet Hennessy Louis Vuitton operates in the industry of household & personal products.",0
+"Dell Technologies doesn't have headquarters in France, and Raytheon Technologies has headquarters in United States.",1
+"Cathay Financial engages in the provision of financial services, and Taiwan Semiconductor Manufacturing Company doesn't operate in the industry of Chemicals.",1
+"Nestle doesn't have headquarters in Switzerland, and Honeywell doesn't operate in the industry of IT Software & Services.",0
+"Brookfield Asset Management doesn't operate in the industry of Consumer Durables, and Sumitomo Mitsui Financial doesn't operate in the industry of banking.",0
+"Anthem has headquarters in United States, and Citigroup is a holding company that engages in the provision of financial products and services.",1
+"Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services, and Fubon Financial operates in the industry of insurance.",0
+"Verizon Communications doesn't have headquarters in Japan, and Glencore doesn't operate in the industry of Telecommunications Services.",1
+"Truist Financial operates in the industry of Banking, and Visa doesn't operate in the industry of United States.",0
+"Shell operates in the industry of oil & gas operations, and The Home Depot operates in the industry of retailing.",1
+"Enbridge doesn't operate in the industry of Insurance, and Mitsui engages in the designing, manufacturing, and selling of cars, trucks and automobile parts.",0
+"Brookfield Asset Management engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity, and Capital One doesn't have headquarters in India.",1
+"Toyota Motor doesn't have headquarters in United States, and Linde operates in the industry of Construction.",0
+"Capital One has headquarters in India, and Lloyds Banking Group operates in the industry of banking.",0
+"Bank of Nova Scotia has headquarters in Taiwan, and Electricite de France doesn't engage in power generation, transmission, distribution, supply and trading activities.",0
+"Fubon Financial doesn't have headquarters in Taiwan, and Saudi Arabian Oil Company (Saudi Aramco) operates in the industry of oil & gas operations.",0
+"Citigroup doesn't operate in the industry of Telecommunications Services, and CITIC operates in the industry of Banking.",0
+"Lloyds Banking Group isn't a financial services company, which engages in the provision of a wide range of banking and financial services, and Poly Developments & Holdings Group doesn't engage in property development, commodity residential building distribution, and property management.",0
+"Agricultural Bank of China doesn't operate in the industry of Food, Drink & Tobacco, and Sony doesn't engage in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets.",0
+"Capital One doesn't have headquarters in India, and Novartis isn't a holding company, which engages in the development, manufacture, and marketing of healthcare products.",0
+"It's not true that Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services, and Petrobras doesn't have headquarters in France.",1
+"Dow operates in the industry of chemicals, and Itau Unibanco Holding doesn't have headquarters in China.",1
+"Truist Financial doesn't operate as a financial holding company, which engages in the provision of banking services to individuals, businesses and municipalities, and Costco Wholesale doesn't operate in the industry of retailing.",0
+"Chevron doesn't have headquarters in Germany, and Itau Unibanco Holding doesn't have headquarters in Brazil.",0
+"Honda Motor doesn't engage in oil and gas exploration, production, and distribution activities, and Wells Fargo doesn't have headquarters in Saudi Arabia.",1
+"GlaxoSmithKline has headquarters in United Kingdom, and Hon Hai Precision operates in the industry of technology hardware & equipment.",1
+"China Construction Bank has headquarters in United States, and Rosneft operates in the industry of Gas & Oil Operations.",0
+"Telefonica doesn't have headquarters in Spain, and Truist Financial has headquarters in United Kingdom.",0
+"Sberbank operates in the industry of Consumer Durables, and Oracle operates in the industry of it software & services.",0
+"Reliance Industries doesn't operate in the industry of Semiconductors, and Walt Disney doesn't have headquarters in United States.",0
+"Sony doesn't operate in the industry of Banking, and American Express has headquarters in France.",0
+"Public Joint Stock Company Gazprom doesn't have headquarters in Russia, and American International Group doesn't engage in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers.",0
+"Novartis operates in the industry of Banking, and It's not true that CITIC engages in the following business activities: housing construction, real estate development and investment, infrastructure construction and investment, prospecting and design, and overseas industries.",0
+"AbbVie (ABBV) doesn't have headquarters in United States, and American International Group has headquarters in Ireland.",0
+"GlaxoSmithKline has headquarters in United Kingdom, and Fubon Financial doesn't operate in the industry of insurance.",0
+"MetLife doesn't operate in the industry of insurance, and Bayerische Motoren Werke (BMW) engages in the manufacture and sale of automobiles and motorcycles.",0
+"Accenture doesn't operate in the industry of it software & services, and Santander doesn't have headquarters in Spain.",0
+"Eni has headquarters in Switzerland, and Pfizer has headquarters in China.",0
+"Nippon Telegraph & Telephone engages in the provision of banking and financial services, and VINCI doesn't operate in the industry of Insurance.",0
+"AIA Group has headquarters in United States, and Cathay Financial doesn't have headquarters in Taiwan.",0
+"Prudential Financial has headquarters in United States, and China Telecom has headquarters in Germany.",0
+"Morgan Stanley doesn't have headquarters in South Korea, and VINCI doesn't operate in the industry of Insurance.",1
+"Abbott Laboratories is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field, and Brookfield Asset Management operates in the industry of Consumer Durables.",0
+"Cathay Financial has headquarters in Russia, and Broadcom isn't a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions.",0
+"Itau Unibanco Holding has headquarters in China, and Tencent Holdings doesn't operate in the industry of Retailing.",0
+"Toyota Motor has headquarters in United States, and Caterpillar doesn't operate in the industry of capital goods.",0
+"Intesa Sanpaolo operates in the industry of Trading Companies, and UnitedHealth Group doesn't engage in the provision of healthcare coverage, software and data consultancy services.",0
+"AT&T engages in business of product trading and business investment activities, and America Movil doesn't engage in the provision of telecommunications services.",0
+"ANZ doesn't have headquarters in Australia, and Honda Motor engages in oil and gas exploration, production, and distribution activities.",0
+"ConocoPhillips doesn't operate in the industry of Semiconductors, and Sumitomo Mitsui Financial doesn't have headquarters in China.",1
+"HCA Healthcare isn't a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers, and America Movil doesn't engage in the provision of telecommunications services.",0
+"Caterpillar doesn't operate in the industry of capital goods, and LVMH Moet Hennessy Louis Vuitton operates in the industry of household & personal products.",0
+"Intel has headquarters in Russia, and Generali Group engages in the provision of insurance and financial products.",0
+"National Australia Bank has headquarters in Australia, and PNC Financial Services operates in the industry of banking.",1
+"LukOil has headquarters in China, and Chevron doesn't engage in the provision of administrative, financial management and technology support for energy and chemical operations.",0
+"Pfizer has headquarters in China, and Truist Financial operates as a financial holding company, which engages in the provision of banking services to individuals, businesses and municipalities.",0
+"CITIC doesn't operate in the industry of Banking, and Anheuser-Busch InBev doesn't operate in the industry of food, drink & tobacco.",0
+"BASF is a financial holding company. It provides financial and investment banking services, and Credit Agricole doesn't have headquarters in France.",0
+"Sumitomo Mitsui Financial doesn't operate in the industry of banking, and Intesa Sanpaolo operates as a financial holding company that engages in the provision of financial products and services.",0
+"PetroChina engages in the provision of innovative memory and storage solutions, and Raytheon Technologies doesn't have headquarters in China.",0
+"Telefonica doesn't engage in the provision of communication, information and entertainment solutions, and Morgan Stanley doesn't operate in the industry of Chemicals.",0
+"Unilever engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories, and Mizuho Financial operates as a holding company which engages in the provision of financial services such as banking, trust banking, securities, and other businesses.",1
+"Goldman Sachs Group doesn't operate in the industry of diversified financials, and It's not true that Nestle operates in the industry of Banking.",0
+"Nestle doesn't engage in the production and distribution of cars, trucks and vans, and Sberbank doesn't have headquarters in France.",1
+"Chevron operates in the industry of Banking, and It's not true that Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services.",0
+"Prudential Financial operates in the industry of diversified financials, and Oracle doesn't engage in the provision of products and services that address all aspects of corporate information technology environments.",0
+"Postal Savings Bank of China doesn't have headquarters in China, and Verizon Communications has headquarters in Japan.",0
+"Electricite de France doesn't engage in power generation, transmission, distribution, supply and trading activities, and Nestle doesn't engage in the production and distribution of cars, trucks and vans.",0
+"Oracle operates in the industry of Consumer Durables, and Amazon.com engages in the manufacture of luxury goods.",0
+"Exxon Mobil has headquarters in Switzerland, and HSBC Holdings has headquarters in United Kingdom.",0
+"BASF engages in the provision of chemical products, and JPMorgan Chase doesn't operate as a holding company that engages in the management of its group companies.",1
+"GlaxoSmithKline is a holding company that engages in the provision of financial management solutions, and United Parcel Service engages in the provision of telecommunication services.",0
+"Bayerische Motoren Werke (BMW) doesn't engage in the manufacture and sale of automobiles and motorcycles, and Pfizer doesn't operate in the industry of insurance.",0
+"Rosneft operates in the industry of Gas & Oil Operations, and It's not true that Westpac Banking is an investment holding company, which engages in the provision of life insurance.",1
+"KDDI doesn't engage in the exploration, production, refining and sale of oil, gas, electricity and chemicals, and Brookfield Asset Management doesn't engage in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity.",0
+"Verizon Communications doesn't have headquarters in Japan, and Poly Developments & Holdings Group has headquarters in China.",1
+"Bank of China has headquarters in China, and IBM operates in the industry of Insurance.",0
+"The Home Depot doesn't engage in the provision of telecommunication and information technology services, and Exxon Mobil engages in the exploration, development, and distribution of oil, gas, and petroleum products.",1
+"ENGIE doesn't engage in the provision of electricity, natural gas, and energy related services, and Microsoft doesn't have headquarters in United States.",0
+"KDDI engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals, and Barclays operates in the industry of banking.",0
+"BNP Paribas has headquarters in China, and Mitsubishi doesn't operate in the industry of trading companies.",0
+"UnitedHealth Group engages in the provision of healthcare coverage, software and data consultancy services, and Broadcom operates in the industry of semiconductors.",1
+"Poly Developments & Holdings Group operates as a holding company that engages in the provision of insurance and asset management services, and American Express operates in the industry of diversified financials.",0
+"Brookfield Asset Management operates in the industry of diversified financials, and Bank of America has headquarters in United States.",1
+"Deutsche Post engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services, and Poly Developments & Holdings Group has headquarters in China.",0
+"PepsiCo doesn't have headquarters in the United States, and Procter & Gamble is the world's largest home improvement specialty retailer.",0
+"BP doesn't engage in the provision of financial products and banking services, and Ford Motor doesn't engage in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products.",1
+"Honda Motor doesn't operate in the industry of consumer durables, and China State Construction Engineering has headquarters in China.",0
+"VINCI operates in the industry of Insurance, and Intel doesn't engage in the design, manufacture and sale of computer products and technologies.",0
+"Honeywell doesn't have headquarters in United States, and Cathay Financial doesn't engage in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories.",0
+"AbbVie (ABBV) is a research-based biopharmaceutical company, which engages in the development and sale of pharmaceutical products, and Cathay Financial doesn't have headquarters in Taiwan.",0
+"Apple engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services, and Dow doesn't have headquarters in Italy.",1
+"Brookfield Asset Management has headquarters in United States, and Alphabet doesn't operate in the industry of it software & services.",0
+"Citigroup isn't a holding company that engages in the provision of financial products and services, and ENGIE has headquarters in United States.",0
+"Unilever engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories, and Bank of Communications doesn't engage in the provision of banking and financial services.",0
+"Citigroup isn't a holding company that engages in the provision of financial products and services, and Stellantis doesn't operate in the industry of Food, Drink & Tobacco.",0
+"Intesa Sanpaolo operates as a financial holding company that engages in the provision of financial products and services, and Airbus Group engages in the design, manufacture, delivery and provision of aerospace products, space and related services.",0
+"Costco Wholesale doesn't operate in the industry of retailing, and Citigroup has headquarters in United States.",0
+"Mercedes-Benz Group has headquarters in United States, and Westpac Banking doesn't operate in the industry of Consumer Durables.",0
+"UnitedHealth Group operates in the industry of Diversified Financials, and ENGIE doesn't operate in the industry of Drugs & Biotechnology.",0
+"Deutsche Telekom doesn't operate as a financial holding company that engages in the provision of financial products and services, and Intesa Sanpaolo operates as a financial holding company that engages in the provision of financial products and services.",0
+"Walt Disney doesn't have headquarters in United States, and PNC Financial Services has headquarters in United States.",0
+"Nestle doesn't have headquarters in Switzerland, and Alibaba Group operates in the industry of Construction.",0
+"E.ON engages in the provision of energy solutions, and AIA Group has headquarters in United States.",0
+"Barclays doesn't operate in the industry of Retailing, and Procter & Gamble isn't the world's largest home improvement specialty retailer.",1
+"UnitedHealth Group engages in the provision of healthcare coverage, software and data consultancy services, and Deere & Company doesn't have headquarters in United States.",0
+"Dow doesn't have headquarters in Italy, and Honeywell operates in the industry of IT Software & Services.",0
+"Sberbank doesn't have headquarters in Russia, and Bank of Nova Scotia has headquarters in Canada.",0
+"Banco Bradesco doesn't engage in the provision of financial and insurance services, and PNC Financial Services doesn't operate in the industry of banking.",0
+"GlaxoSmithKline has headquarters in United Kingdom, and Sberbank doesn't operate in the industry of Consumer Durables.",1
+"Nestle engages in the production and distribution of cars, trucks and vans, and Oracle doesn't operate in the industry of it software & services.",0
+"Charter Communications operates in the industry of Oil & Gas Operations, and Itau Unibanco Holding has headquarters in China.",0
+"Citigroup is a holding company that engages in the provision of financial products and services, and HCA Healthcare doesn't have headquarters in United Kingdom.",1
+"Novartis is a holding company, which engages in the development, manufacture, and marketing of healthcare products, and America Movil doesn't operate in the industry of telecommunications services.",0
+"Bank of Communications doesn't engage in the provision of banking and financial services, and Siemens doesn't operate in the industry of Oil & Gas Operations.",0
+"Munich Reinsurance doesn't operate in the industry of insurance, and Prudential Financial operates in the industry of diversified financials.",0
+"It's not true that Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services, and Abbott Laboratories doesn't have headquarters in United States.",0
+"Unilever doesn't engage in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories, and Dell Technologies doesn't have headquarters in France.",0
+"Deutsche Post engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services, and Agricultural Bank of China has headquarters in Hong Kong.",0
+"Generali Group doesn't have headquarters in Italy, and IBM doesn't have headquarters in United States.",0
+"British American Tobacco operates as a global financial services company, and Raytheon Technologies engages in the provision of mail and logistics services.",0
+"Sberbank doesn't engage in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers, and Ford Motor doesn't engage in the manufacture, distribution and sale of automobiles.",0
+"Raytheon Technologies doesn't engage in the provision of mail and logistics services, and ConocoPhillips operates in the industry of Semiconductors.",0
+"Stellantis doesn't have headquarters in Netherlands, and It's not true that Tokio Marine Holdings operates in the industry of Retailing.",0
+"Oracle operates in the industry of it software & services, and AXA doesn't engage in providing online and mobile marketplaces in retail and wholesale trade.",1
+"AT&T operates in the industry of telecommunications services, and China Shenhua Energy doesn't engage in the production and marketing of metal, mineral, and energy and agricultural commodities.",1
+"Prudential Financial engages in the provision of financial products and services including life insurance, annuities, mutual funds, and investment management to both individual and institutional customers, and BNP Paribas engages in the provision of banking and financial services.",1
+"Walgreens doesn't have headquarters in United States, and Sumitomo Mitsui Financial doesn't have headquarters in China.",0
+"Generali Group doesn't have headquarters in Italy, and Toyota Motor doesn't have headquarters in United States.",0
+"JPMorgan Chase doesn't have headquarters in China, and Sony has headquarters in United States.",0
+"Walgreens doesn't have headquarters in United States, and Mercedes-Benz Group doesn't have headquarters in United States.",0
+"Electricite de France doesn't have headquarters in France, and Raytheon Technologies has headquarters in United States.",0
+"Shell doesn't engage in oil and natural gas production, and Munich Reinsurance has headquarters in Germany.",0
+"Intesa Sanpaolo doesn't operate as a financial holding company that engages in the provision of financial products and services, and Apple doesn't engage in the provision of banking and related financial services.",1
+"Poly Developments & Holdings Group engages in property development, commodity residential building distribution, and property management, and Bayerische Motoren Werke (BMW) doesn't engage in the manufacture and sale of automobiles and motorcycles.",0
+"JPMorgan Chase isn't a financial holding company. It doesn't provide financial and investment banking services, and Chevron doesn't operate in the industry of Banking.",0
+"Alibaba Group engages in the manufacture and sale of automobiles, motorcycles and power products, and Wells Fargo doesn't operate in the industry of banking.",0
+"Visa operates in the industry of business services & supplies, and Toyota Motor doesn't have headquarters in United States.",1
+"Lloyds Banking Group doesn't operate in the industry of banking, and Hitachi doesn't engage in the manufacture and sale of electrical equipment.",0
+"The Home Depot doesn't engage in the provision of telecommunication and information technology services, and Roche Holding doesn't operate in the industry of drugs & biotechnology.",0
+"Mizuho Financial isn't a banking services company, it doesn't engage in the provision of banking services to individuals, companies, and institutions, and It's not true that Equinor is an investment holding company that engages in the exploration, development, production and sale of crude oil, natural gas and other petroleum products through its subsidiaries.",1
+"Goldman Sachs Group doesn't engage in global investment banking, securities and investment management, which provides financial services, and LukOil doesn't have headquarters in China.",0
+"VINCI operates in the industry of Insurance, and Mitsubishi has headquarters in Japan.",0
+"Mitsui doesn't engage in the designing, manufacturing, and selling of cars, trucks and automobile parts, and Saudi Arabian Oil Company (Saudi Aramco) doesn't operate in the industry of oil & gas operations.",0
+"PNC Financial Services doesn't operate in the industry of Aerospace & Defense, and UnitedHealth Group operates in the industry of Diversified Financials.",0
+"AT&T engages in business of product trading and business investment activities, and Saudi Arabian Oil Company (Saudi Aramco) has headquarters in Saudi Arabia.",0
+"Hitachi doesn't have headquarters in Japan, and UBS Group operates in the industry of Aerospace & Defense.",0
+"Thermo Fisher Scientific operates in the industry of healthcare equipment & services, and Oracle doesn't operate in the industry of it software & services.",0
+"ENGIE doesn't engage in the provision of electricity, natural gas, and energy related services, and Petrobras doesn't have headquarters in France.",0
+"Iberdrola has headquarters in Canada, and Anglo American doesn't operate in the industry of materials.",0
+"Stellantis doesn't operate in the industry of Food, Drink & Tobacco, and Raytheon Technologies doesn't engage in the provision of mail and logistics services.",1
+"Micron Technology doesn't have headquarters in United States, and Itochu doesn't have headquarters in United States.",0
+"Pfizer doesn't engage in the discovery, development, manufacturing, marketing, distribution, and selling of biopharmaceutical products worldwide, and Volkswagen Group operates in the industry of consumer durables.",0
+"Glencore doesn't operate in the industry of Telecommunications Services, and Chevron operates in the industry of oil & gas operations.",1
+"Novartis has headquarters in Japan, and Chevron has headquarters in Germany.",0
+"Telefonica doesn't have headquarters in Spain, and Amazon.com engages in the manufacture of luxury goods.",0
+"Anglo American isn't a mining company, which engages in the exploration and mining of precious base metals and ferrous metals, and Credit Agricole has headquarters in France.",0
+"Abbott Laboratories isn't a holding company that engages in the research and development, manufacture and sale of products in the healthcare field, and SK Hynix doesn't operate in the industry of semiconductors.",0
+"Bristol Myers Squibb engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products, and Sberbank doesn't engage in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers.",1
+"Taiwan Semiconductor Manufacturing Company doesn't operate in the industry of Chemicals, and State Bank of India operates in the industry of Oil & Gas Operations.",0
+"Citigroup doesn't have headquarters in United States, and Deutsche Telekom engages in the provision of telecommunication and information technology services.",0
+"Petrobras doesn't have headquarters in France, and Brookfield Asset Management engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity.",1
+"BBVA doesn't operate in the industry of banking, and Poly Developments & Holdings Group doesn't engage in property development, commodity residential building distribution, and property management.",0
+"Bank of Communications doesn't engage in the provision of banking and financial services, and Anglo American is a mining company, which engages in the exploration and mining of precious base metals and ferrous metals.",0
+"America Movil doesn't operate in the industry of telecommunications services, and Mitsui doesn't engage in the designing, manufacturing, and selling of cars, trucks and automobile parts.",0
+"China Shenhua Energy doesn't operate in the industry of Transportation, and Banco Bradesco doesn't engage in the provision of financial and insurance services.",0
+"Anheuser-Busch InBev operates in the industry of food, drink & tobacco, and Walt Disney doesn't have headquarters in United States.",0
+"MetLife doesn't have headquarters in United States, and Broadcom engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity.",0
+"BHP Group doesn't have headquarters in Canada, and MetLife doesn't have headquarters in Australia.",1
+"Citigroup operates in the industry of Telecommunications Services, and China Life Insurance has headquarters in China.",0
+"Banco Bradesco doesn't engage in the provision of financial and insurance services, and China State Construction Engineering doesn't have headquarters in China.",0
+"Taiwan Semiconductor Manufacturing Company doesn't engage in the design, development, manufacture, and sale of fully electric vehicles, energy generation and storage systems, and Apple doesn't engage in the provision of banking and related financial services.",1
+"ArcelorMittal doesn't have headquarters in Canada, and Intesa Sanpaolo doesn't operate as a financial holding company that engages in the provision of financial products and services.",1
+"GlaxoSmithKline doesn't have headquarters in United Kingdom, and Poly Developments & Holdings Group doesn't have headquarters in China.",0
+"Dell Technologies operates in the industry of Media, and Vale doesn't operate in the industry of Banking.",0
+"Cisco Systems doesn't engage in the exploration, production, refining and sale of oil, gas, electricity and chemicals, and Iberdrola doesn't operate in the industry of Banking.",1
+"MetLife has headquarters in Australia, and American International Group has headquarters in United States.",0
+"Poly Developments & Holdings Group doesn't have headquarters in China, and Medtronic has headquarters in Ireland.",0
+"Raytheon Technologies has headquarters in United States, and Thermo Fisher Scientific doesn't have headquarters in South Korea.",1
+"Linde doesn't operate in the industry of Construction, and Sumitomo Mitsui Financial has headquarters in China.",0
+"Bank of Communications doesn't have headquarters in China, and Bank of China engages in the provision of banking and financial services.",0
+"Tokio Marine Holdings operates in the industry of Retailing, and Charter Communications doesn't operate in the industry of media.",0
+"Bank of China engages in the provision of banking and financial services, and General Motors operates in the industry of consumer durables.",1
+"Lockheed Martin doesn't have headquarters in United States, and Siemens doesn't engage in property development, commodity residential building distribution, and property management.",0
+"Saudi Arabian Oil Company (Saudi Aramco) operates in the industry of oil & gas operations, and Sberbank doesn't have headquarters in Russia.",0
+"Moller - Maersk doesn't engage in shipping, energy, transportation, offshore drilling, and retail activities, and VINCI operates in the industry of Insurance.",0
+"UBS Group isn't a holding company that engages in the provision of financial management solutions, and Pfizer engages in the provision of insurance and financial products.",0
+"VINCI doesn't operate in the industry of Insurance, and Sony doesn't engage in the provision of digital payment services. It also doesn't facilitate global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities.",1
+"Dell Technologies doesn't have headquarters in France, and Anthem engages in the provision of products and services that address all aspects of corporate information technology environments.",0
+"National Australia Bank doesn't operate in the industry of banking, and Bank of China doesn't engage in the exploration, development, production and sale of crude oil & gas. It doesn't involve in refining, transportation, and sale of petroleum products.",0
+"Medtronic doesn't have headquarters in Ireland, and UnitedHealth Group doesn't operate in the industry of Diversified Financials.",0
+"Mizuho Financial isn't a banking services company, it doesn't engage in the provision of banking services to individuals, companies, and institutions, and MetLife engages in owning and operating of general merchandise stores.",0
+"Lockheed Martin has headquarters in United States, and BNP Paribas doesn't have headquarters in China.",1
+"Sberbank doesn't provide commercial banking and financial services, and National Australia Bank doesn't have headquarters in Australia.",0
+"Oracle operates in the industry of it software & services, and Fubon Financial has headquarters in Canada.",0
+"Shell doesn't have headquarters in Canada, and Bayerische Motoren Werke (BMW) doesn't engage in the manufacture and sale of automobiles and motorcycles.",0
+"Bristol Myers Squibb engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products, and Sberbank engages in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers.",0
+"Industrial Bank doesn't have headquarters in China, and Caterpillar operates in the industry of capital goods.",0
+"Moller - Maersk operates in the industry of transportation, and AT&T doesn't operate in the industry of Trading Companies.",1
+"Chevron has headquarters in Germany, and Ford Motor engages in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products.",0
+"Credit Agricole doesn't have headquarters in France, and Costco Wholesale doesn't engage in the operation of membership warehouses.",0
+"KDDI has headquarters in India, and Hitachi doesn't have headquarters in Japan.",0
+"Bank of Nova Scotia doesn't have headquarters in Canada, and Target isn't a holding company, which engages in the provision of financial services.",0
+"Sberbank doesn't engage in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers, and Alibaba Group engages in the manufacture and sale of automobiles, motorcycles and power products.",0
+"Nestle doesn't engage in the production and distribution of cars, trucks and vans, and Goldman Sachs Group engages in global investment banking, securities and investment management, which provides financial services.",1
+"Bristol Myers Squibb doesn't engage in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products, and Amazon.com engages in the manufacture of luxury goods.",0
+"Pfizer doesn't engage in the provision of insurance and financial products, and Honeywell doesn't operate in the industry of IT Software & Services.",1
+"ConocoPhillips operates in the industry of Semiconductors, and Broadcom is a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions.",0
+"Cathay Financial doesn't have headquarters in Taiwan, and Target has headquarters in United States.",0
+"Chevron doesn't operate in the industry of oil & gas operations, and Nippon Telegraph & Telephone doesn't engage in the provision of banking and financial services.",0
+"Sony doesn't engage in the provision of digital payment services. It also doesn't facilitate global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities, and It's not true that Mitsubishi operates in the industry of Banking.",1
+"Walgreens doesn't have headquarters in United States, and Linde has headquarters in United States.",0
+"UnitedHealth Group doesn't engage in the provision of healthcare coverage, software and data consultancy services, and Hyundai Motor doesn't have headquarters in South Korea.",0
+"BHP Group doesn't have headquarters in Australia, and Honeywell doesn't have headquarters in United States.",0
+"Eni doesn't have headquarters in Switzerland, and Itochu doesn't have headquarters in United States.",1
+"UnitedHealth Group operates in the industry of Diversified Financials, and Merck & Co. has headquarters in Drugs & Biotechnology.",0
+"Moller - Maersk engages in shipping, energy, transportation, offshore drilling, and retail activities, and Walgreens doesn't have headquarters in United States.",0
+"Sberbank operates in the industry of Consumer Durables, and Pfizer doesn't have headquarters in China.",0
+"Comcast doesn't operate in the industry of Banking, and Intesa Sanpaolo operates in the industry of Trading Companies.",0
+"It's not true that Postal Savings Bank of China operates in the industry of Consumer Durables, and UnitedHealth Group doesn't engage in the provision of healthcare coverage, software and data consultancy services.",0
+"Sberbank doesn't operate in the industry of Consumer Durables, and Postal Savings Bank of China has headquarters in China.",1
+"Wells Fargo doesn't have headquarters in United States, and It's not true that Charter Communications operates in the industry of Oil & Gas Operations.",0
+"Ping An Insurance (Group) Company of China has headquarters in France, and Shell doesn't engage in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products.",0
+"British American Tobacco operates as a global financial services company, and ENGIE doesn't operate in the industry of Drugs & Biotechnology.",0
+"Costco Wholesale doesn't operate in the industry of retailing, and Pfizer engages in the provision of insurance and financial products.",0
+"Nestle doesn't have headquarters in Switzerland, and Telefonica has headquarters in France.",0
+"CNOOC isn't a diversified, community-based financial services company, and Johnson & Johnson isn't a holding company that engages in the research and development, manufacture and sale of products in the healthcare field.",0
+"Moller - Maersk operates in the industry of IT Software & Services, and Linde operates in the industry of Construction.",0
+"GlaxoSmithKline is a holding company that engages in the provision of financial management solutions, and Accenture doesn't engage in the provision of management consulting, technology, and outsourcing services.",0
+"AT&T operates in the industry of telecommunications services, and Fubon Financial doesn't engage in the provision of financial services.",0
+"Costco Wholesale doesn't operate in the industry of Materials, and China Citic Bank doesn't operate in the industry of banking.",0
+"Pfizer doesn't engage in the discovery, development, manufacturing, marketing, distribution, and selling of biopharmaceutical products worldwide, and CVS Health doesn't operate in the industry of Banking.",0
+"Roche Holding operates in the industry of drugs & biotechnology, and PepsiCo doesn't have headquarters in Australia.",1
+"American International Group doesn't operate in the industry of insurance, and Citigroup engages in the provision of banking and related financial services.",0
+"Cathay Financial operates in the industry of insurance, and FedEx doesn't have headquarters in United States.",0
+"Costco Wholesale engages in the operation of membership warehouses, and Taiwan Semiconductor Manufacturing Company doesn't engage in the design, development, manufacture, and sale of fully electric vehicles, energy generation and storage systems.",1
+"Anthem engages in the provision of products and services that address all aspects of corporate information technology environments, and UBS Group isn't a holding company that engages in the provision of financial management solutions.",0
+"Micron Technology doesn't have headquarters in United States, and AT&T doesn't operate in the industry of Trading Companies.",0
+"Honda Motor engages in oil and gas exploration, production, and distribution activities, and Electricite de France engages in power generation, transmission, distribution, supply and trading activities.",0
+"Microsoft operates in the industry of Transportation, and Reliance Industries operates in the industry of Semiconductors.",0
+"Bristol Myers Squibb doesn't engage in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products, and Rio Tinto has headquarters in France.",0
+"Iberdrola is a holding company that engages in the generation, distribution, trading and marketing of electricity, and Postal Savings Bank of China has headquarters in United States.",0
+"United Parcel Service engages in the provision of telecommunication services, and Deere & Company doesn't have headquarters in United States.",0
+"Roche Holding operates in the industry of drugs & biotechnology, and PepsiCo has headquarters in the United States.",1
+"General Motors doesn't have headquarters in Drugs & Biotechnology, and Sanofi doesn't engage in the manufacture and sale of semiconductor products.",1
+"United Parcel Service operates in the industry of Banking, and It's not true that Lowe's engages in the provision of telecommunication services.",0
+"Medtronic has headquarters in Ireland, and Target isn't a holding company, which engages in the provision of financial services.",1
+"CNOOC doesn't operate in the industry of oil & gas operations, and Medtronic has headquarters in Ireland.",0
+"Fubon Financial operates in the industry of insurance, and Capital One engages in the provision of corporate and personal banking services, financial lease, assets custody services and conducting treasury business.",0
+"Alibaba Group doesn't operate in the industry of retailing, and Sberbank doesn't have headquarters in Russia.",0
+"Intesa Sanpaolo doesn't operate as a financial holding company that engages in the provision of financial products and services, and KDDI engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",0
+"Westpac Banking operates in the industry of Consumer Durables, and SK Hynix doesn't operate in the industry of Conglomerates.",0
+"ENGIE doesn't operate in the industry of oil & gas operations, and Siemens operates in the industry of Oil & Gas Operations.",0
+"Prudential Financial operates in the industry of diversified financials, and Mitsui doesn't engage in the designing, manufacturing, and selling of cars, trucks and automobile parts.",1
+"Novartis isn't a holding company, which engages in the development, manufacture, and marketing of healthcare products, and Bank of Nova Scotia doesn't have headquarters in Canada.",0
+"BHP Group doesn't operate in the industry of Insurance, and Electricite de France doesn't engage in power generation, transmission, distribution, supply and trading activities.",0
+"China Telecom doesn't engage in the provision of telecommunication services, and Electricite de France has headquarters in France.",0
+"Alphabet operates in the industry of it software & services, and Moller - Maersk engages in shipping, energy, transportation, offshore drilling, and retail activities.",1
+"Alibaba Group operates in the industry of retailing, and Moller - Maersk doesn't have headquarters in Australia.",1
+"Citigroup isn't a holding company that engages in the provision of financial products and services, and Anthem doesn't have headquarters in United States.",0
+"Industrial Bank has headquarters in China, and Lockheed Martin doesn't have headquarters in United States.",0
+"Alphabet doesn't operate in the industry of Oil & Gas Operations, and Manulife doesn't engage in business of product trading and business investment activities.",1
+"Charter Communications operates in the industry of Oil & Gas Operations, and BHP Group doesn't have headquarters in Australia.",0
+"Rio Tinto doesn't have headquarters in France, and National Australia Bank has headquarters in Australia.",1
+"Johnson & Johnson doesn't have headquarters in Hong Kong, and Raytheon Technologies doesn't engage in the provision of mail and logistics services.",1
+"Nestle has headquarters in Switzerland, and SoftBank operates in the industry of telecommunications services.",1
+"Exxon Mobil doesn't have headquarters in Switzerland, and Eni has headquarters in Switzerland.",0
+"Mizuho Financial operates as a holding company which engages in the provision of financial services such as banking, trust banking, securities, and other businesses, and Volkswagen Group operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management.",0
+"Morgan Stanley doesn't operate in the industry of Chemicals, and Merck & Co. has headquarters in Drugs & Biotechnology.",0
+"Saudi Arabian Oil Company (Saudi Aramco) operates in the industry of Trading Companies, and China Citic Bank doesn't operate in the industry of banking.",0
+"Mitsubishi operates in the industry of Banking, and SK Hynix has headquarters in China.",0
+"Nestle doesn't have headquarters in Mexico, and Intesa Sanpaolo doesn't have headquarters in Italy.",0
+"Truist Financial doesn't operate in the industry of Banking, and JPMorgan Chase operates as a holding company that engages in the management of its group companies.",0
+"China Citic Bank operates in the industry of banking, and Mitsubishi UFJ Financial Group operates in the industry of Banking.",0
+"Rosneft doesn't have headquarters in United States, and Credit Agricole has headquarters in Australia.",0
+"Univlever engages in the provision of banking and financial solutions, and Sanofi engages in the manufacture and sale of semiconductor products.",0
