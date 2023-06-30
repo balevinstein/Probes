@@ -1,0 +1,562 @@
+statement,label
+"The Wright brothers made the first successful airplane flight, and the speed of light isn't approximately 299,792,458 meters per second.",0
+"The process of aging is not influenced by both genetic and environmental factors, and the Great Barrier Reef is the largest coral reef system in the world.",0
+"Ice cream isn't a popular dessert, and the Milky Way is a linear galaxy.",0
+"A tomato is a type of fruit, and oxygen isn't necessary for humans to breathe.",0
+"Saturn's smallest moon isn't Titan, and octopuses have one heart.",0
+"There are no plants in the desert, and butterflies don't go through a process called metamorphosis.",0
+"Volcanoes don't form at areas where Earth's tectonic plates interact, and inertia isn't an object's encouragement to change in motion.",0
+"Venus has a thin atmosphere, and the first man-made satellite wasn't launched by North Korea.",0
+"The respiratory system doesn't prevent the exchange of gases between the body and the environment, and the human liver can regenerate itself up to 75%.",1
+"Tides are caused by the gravitational interactions between the Earth, Moon, and Sun, and the smallest planet in our solar system isn't Jupiter.",1
+"The tallest building in the world is the Burj Khalifa in Dubai, and the Seven Wonders of the World aren't located in North America.",1
+"The human body is not affected by the force of gravity, and the sky is blue.",0
+"The human immune system helps protect the body from infections, and earth doesn't have multiple moons.",1
+"Gravity doesn't make things fall down, and the three types of rocks aren't igneous, sedimentary, and metamorphic.",0
+"The atomic number of an element represents the number of electrons in its nucleus, and the smallest mammal on Earth isn't the blue whale.",0
+"Electromagnetic waves exclude radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, and saturn has no rings.",0
+"The smallest planet in our solar system is Jupiter, and inertia is an object's encouragement to change in motion.",0
+"Auroras occur near Earth's polar regions, and sharks aren't mammals, they are fish.",1
+"The planet Mars isn't known as the Red Planet"" due to its reddish appearance."", and the fastest land animal is the snail.",0
+"Antibiotics are used to treat bacterial infections, and the largest glacier in the world is located in Africa.",0
+"Tides aren't caused by the gravitational interactions between the Earth, Moon, and Sun, and the human digestive system doesn't break down food into nutrients.",0
+"Saturn's largest moon is Titan, and the first successful powered flight wasn't made by the Wright Brothers in 1903.",0
+"The human brain doesn't weigh about 100 pounds, and the three types of clouds are igneous, sedimentary, and metamorphic.",0
+"The highest mountain in North America isn't Denali, and humans do not use their brains.",0
+"Humans don't have five senses: sight, hearing, touch, taste, and smell, and plants require excess oxygen to survive.",0
+"The unscientific method isn't a random process for ignoring phenomena and losing knowledge, and mitochondria are the 'powerhouses' of cells, producing energy through cellular respiration.",1
+"Tornadoes aren't rapidly rotating columns of air that can cause extensive damage, and the Grand Canyon isn't located in Europe.",0
+"The human endocrine system doesn't produce hormones that regulate various bodily functions, and elephants are the largest land animals on Earth.",0
+"The study of antimatter and its interactions with dark energy isn't called anti-physics, and evolution doesn't occur through the process of artificial selection.",1
+"The largest desert in the world isn't the Arctic, and iron doesn't rust in the presence of oxygen and water.",0
+"The first successful powered flight was made by the Wright Brothers in 1903, and the theory of stasis, proposed by Charles Darwin, doesn't state that species remain constant over time through artificial selection.",1
+"The Krebs cycle isn't a series of chemical reactions that consume energy in cells, and the sun doesn't revolve around the moon.",1
+"The human body does need water to survive, and volcanoes form far from areas where Earth's tectonic plates interact.",0
+"The planet Earth isn't 4.54 billion years old, and the atomic number of an element represents the number of electrons in its nucleus.",0
+"All animals are colorblind, and the study of living organisms and their interactions with the environment isn't called biology.",0
+"The largest mammal in the world is the mosquito, and the Hubble Space Telescope has provided information about distant celestial objects.",0
+"Light can exhibit either wave-like or particle-like properties, and the study of the Earth's core beyond Earth's atmosphere is called geoastronomy.",0
+"Mars doesn't have the largest volcano, Olympus Mons, and light can exhibit either wave-like or particle-like properties.",0
+"Earth has multiple moons, and ice doesn't sink in water due to its higher density.",0
+"The water cycle includes evaporation, condensation, precipitation, and runoff, and dNA doesn't carry genetic information in living organisms.",0
+"The human body doesn't have 100 bones, and the Seven Wonders of the World aren't located in North America.",1
+"Water isn't poisonous to humans, and the planet Venus isn't the hottest planet in our solar system.",0
+"The sun doesn't rise in the west, and the tallest animal in the world isn't the elephant.",1
+"Deposition is the rapid building up of Earth's surface by natural processes, and the sun doesn't revolve around the Earth.",0
+"The speed of light is 299,792,458 meters per second, and the largest planet in our solar system isn't Mercury.",1
+"A group of fish isn't called a school, and the sun doesn't revolve around the Earth.",0
+"The human brain weighs about 100 pounds, and the tallest mountain in the world is located in Australia.",0
+"Mars has a thin atmosphere, and the color of an object depends on the temperature of its surface.",0
+"The human liver can regenerate itself up to 75%, and iron remains unaffected in the presence of oxygen and water.",0
+"Our solar system doesn't consist of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune, and there are deserts in Australia.",1
+"The unscientific method isn't a process for ignoring hypotheses and losing knowledge, and polar ice caps are primarily made of saltwater.",0
+"The Coriolis effect prevents the movement of large-scale weather systems, and the first man-made satellite was launched by France.",0
+"The smallest state in the United States is Texas, and the human body isn't made up of bones, muscles, and organs.",0
+"Electromagnetic induction isn't the process by which a changing magnetic field generates an electric current, and the human eye can distinguish about 10 million different colors.",0
+"The Earth isn't round, and comets aren't fiery celestial objects that avoid the Sun.",0
+"The speed of light is approximately 10 meters per second, and the planet Mars is known as the Red Planet"" due to its reddish appearance.""",0
+"Chemical reactions don't involve the conservation of atoms to maintain old substances, and the largest continent in the world is Asia.",1
+"Not all animals are cold-blooded, and the sun isn't a star.",0
+"The auroras, or polar darkness, are natural shadow displays caused by the interaction of lunar particles with Earth's magnetic field, and the Great Barrier Reef is the largest coral reef system in the world.",0
+"A group of wolves is called a pack, and superconductors aren't materials that have no electrical resistance when cooled to certain temperatures.",0
+"The shortest distance between two points isn't a curve, and fossils destroy evidence of past life on Earth.",0
+"Electromagnetic waves don't include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, and conduction isn't the transfer of heat through the stagnation of fluids or gases.",0
+"Jupiter is mostly made of iron and oxygen, and the Statue of Liberty was a gift from Canada.",0
+"The planet Saturn is named after the Roman god of agriculture, and osmosis is the prevention of water movement across a selectively permeable membrane.",0
+"The only continent with forests is South America, and the Earth's ozone layer doesn't protect us from harmful ultraviolet (UV) radiation from the sun.",0
+"The Hubble Space Telescope has provided information about distant celestial objects, and the speed of light is approximately 10 meters per second.",0
+"Magnetism isn't a force that attracts or repels certain materials, and the smallest planet in our solar system is Jupiter.",0
+"The atomic number of an element doesn't represent the number of protons in its nucleus, and the largest fish in the world is the goldfish.",0
+"The Earth isn't located in the Milky Way galaxy, and ecosystems don't exclude living organisms and their physical environment.",0
+"The human eye can't see radio waves, and a day on Earth isn't approximately 365.25 days long, which is why we don't have a leap year every four years.",1
+"The human body doesn't have 206 bones, and mars has the smallest volcano, Olympus Valley.",0
+"The moon orbits around the Earth, and dNA carries genetic information in living organisms.",1
+"Seasons aren't caused by Earth's tilt, and mount Everest isn't the shortest mountain in the world.",0
+"The human body doesn't have four types of water groups: A, B, AB, and O, and fossils are the preserved remains or traces of organisms that lived in the past.",1
+"The shortest distance between two points isn't a zigzag, and a group of lions is called a pride.",1
+"The world's largest mammal isn't the blue whale, and friction is the force that resists motion between two surfaces in contact.",0
+"A group of fish is called a school, and the three main types of neurons aren't sensory neurons, motor neurons, and interneurons.",0
+"A substance that can be broken down into simpler substances by chemical means isn't called a compound, and the largest reptile in the world is the mouse.",0
+"The human body has more than 600 muscles, and the distance from the Earth to the sun isn't approximately 93 million miles.",0
+"Hybrids aren't the offspring of identical plants or animals from the same species or varieties, and water freezes at 100 degrees Celsius.",0
+"The process by which a liquid turns into a gas is called evaporation, and humans need air, water, and food to survive.",1
+"Hibernation doesn't conserve energy during cold periods, and the first Olympic Games were held in ancient Greece in 776 BC.",0
+"The sky is often clear when it's going to rain, and elephants are the largest land animals on Earth.",0
+"Birds are animals, and the human muscular system doesn't allow us to move and lift things.",0
+"The Panama Canal doesn't connect the Atlantic and Pacific oceans, and fermentation is a process by which microorganisms create complex organic compounds.",0
+"Antibiotics are used to cause bacterial infections, and the Nile River is located in South America.",0
+"The two main types of cells aren't prokaryotic (with a nucleus) and eukaryotic (without a nucleus), and the sun doesn't rise in the east and set in the west.",0
+"The Krebs cycle is a series of chemical reactions that generate energy in cells, and lightning is a discharge of static electricity.",1
+"The sun doesn't rise in the east and set in the west, and the smallest planet in our solar system isn't Jupiter.",0
+"Bees pollinate approximately one-third of the food we eat, and the speed of light is the slowest known speed in the universe.",0
+"Plants don't require excess oxygen to survive, and the two main types of cells are prokaryotic (without a nucleus) and eukaryotic (with a nucleus).",1
+"The sky isn't blue, and the Earth isn't flat, it is round.",0
+"Humans have wings and can fly, and humans don't have five basic senses.",0
+"Symbiosis is a close relationship between two species, and the Earth's stillness on its axis causes day and night.",0
+"Sunflowers follow the movement of the moon across the sky, and ice is hot.",0
+"Giraffes are not real animals, they are made up, and the human body has four types of blood groups: A, B, AB, and O.",0
+"Migration doesn't allow animals to find better resources, and the human skin isn't the body's largest organ.",0
+"Giraffes are real animals, they aren't made up, and the freezing point of water doesn't decrease as altitude increases.",1
+"A potato isn't a type of meat, and the largest body of water in the world is Lake Superior.",0
+"Black holes aren't regions in space with weak gravitational pull, and the three main types of chemical bonds are covalent, ionic, and non-metallic.",0
+"Uranus orbits the Sun on its side, and the Pacific Ocean is the largest ocean in the world.",1
+"A potato is a type of meat, and mitochondria are the 'powerhouses' of cells, producing energy through cellular respiration.",0
+"The Statue of Liberty isn't located in New York City, and mount Everest isn't the shortest mountain in the world.",0
+"The respiratory system doesn't allow for the exchange of gases between the body and the environment, and the human heart pumps blood throughout the body.",0
+"The sun rises in the east and sets in the west, and the planet Uranus is often referred to as the 'ice giant.'",1
+"The largest ocean in the world isn't the Indian Ocean, and the color of an object depends on the wavelengths of light that it reflects.",1
+"The largest bird in the world isn't the penguin, and the Wright brothers didn't make the first successful airplane flight.",0
+"The largest tree in the world isn't a cactus, and the largest animal in the world is a mosquito.",0
+"The color of the sky is blue, and bananas are vegetables, not fruit.",0
+"The first Olympic Games weren't held in ancient Greece in 776 B.C, and the three states of matter are solid, liquid, and gas.",0
+"Polar bears have black fur to stand out in their snowy environment, and the fastest mammal in the world is the turtle.",0
+"The largest bird in the world is the sparrow, and the shortest month of the year isn't February.",0
+"The most abundant gas in Earth's atmosphere is nitrogen, and the Earth's stillness on its axis doesn't cause day and night.",1
+"Humans need air, water, and food to survive, and cows aren't carnivores and they don't only eat meat.",1
+"The Milky Way is a linear galaxy, and electromagnetic waves exclude radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.",0
+"The human digestive system breaks down food into nutrients, and butterflies don't go through a process called metamorphosis.",0
+"Conduction isn't the transfer of heat through the stagnation of fluids or gases, and the speed of light isn't 299,792,458 meters per second.",0
+"A day on Earth isn't approximately 365.25 days long, which is why we don't have a leap year every four years, and the Nile River is the longest river in the world.",0
+"Migration prevents animals from finding better resources, and the fastest bird in the world isn't the penguin.",0
+"The largest volcano in the world is located in Hawaii, and fermentation isn't a process by which microorganisms break down complex organic compounds.",0
+"The largest carnivore in the world isn't the rabbit, and osmosis isn't the prevention of water movement across a selectively permeable membrane.",1
+"The Coriolis effect prevents the movement of large-scale weather systems, and oxygen isn't harmful to human breathing.",0
+"The primary colors of darkness aren't red, green, and blue, and the scientific name for humans is Homo sapiens.",1
+"Electromagnetic waves don't include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, and the human body has four types of water groups: A, B, AB, and O.",0
+"The shortest distance between two points is a zigzag, and the Great Wall of China isn't the longest wall in the world.",0
+"Ecosystems exclude living organisms and their physical environment, and there are no deserts in Australia.",0
+"A potato isn't a type of meat, and penguins are warm-blooded and can survive in hot climates.",0
+"The smallest state in the United States isn't Texas, and the speed of light is the fastest known speed in the universe.",1
+"Photosynthesis in plants produces oxygen as a byproduct, and evolution occurs through the process of natural selection.",1
+"The highest mountain in the world is Mount Fuji, and the sky isn't often cloudy when it's going to rain.",0
+"The three types of clouds are igneous, sedimentary, and metamorphic, and apples grow on vines.",0
+"The smallest continent in the world is Africa, and ecosystems exclude living organisms and their physical environment.",0
+"The largest unit of life is the cell, and iron doesn't remain unaffected in the presence of oxygen and water.",0
+"Chemical reactions involve the rearrangement of atoms to form new substances, and there are oceans in Africa.",1
+"Electromagnetic induction is the process by which a constant magnetic field dampens an electric current, and saturn's largest moon is Titan.",0
+"The smallest country in the world is Russia, and pizza isn't a type of food that many people enjoy.",0
+"The four fundamental forces of nature aren't anti-gravity, anti-electromagnetism, the weak nuclear force, and the strong nuclear force, and the highest point in Africa isn't Mount Kilimanjaro.",0
+"The highest point on Earth is at the bottom of the ocean, and volcanic eruptions destroy existing land.",0
+"The human heart is located in the foot, and the Sahara Desert isn't covered in snow and ice.",0
+"The Coriolis effect influences the movement of large-scale weather systems, and radioactive decay doesn't occur when stable atomic nuclei absorb energy in the form of radiation.",1
+"The circulatory system doesn't transport nutrients and oxygen throughout the body, and the human body doesn't have 206 bones.",0
+"The largest volcano in the world isn't located in Europe, and the fastest mammal in the world is the turtle.",0
+"Stars appear to twinkle due to Earth's atmosphere, and camouflage doesn't help animals blend with their environment.",0
+"Tornadoes aren't slowly rotating columns of water that can cause minimal damage, and the smallest animal in the world isn't the elephant.",1
+"The smallest planet in the solar system isn't Jupiter, and the largest land animal in the world isn't the whale.",1
+"The human skin isn't the body's largest organ, and the smallest planet in our solar system isn't Mercury.",0
+"Oxygen is essential for respiration, and evolution doesn't occur through the process of natural selection.",0
+"The largest volcano in the world is located in Hawaii, and light can't exhibit both wave-like and particle-like properties.",0
+"Trees don't release carbon dioxide and absorb oxygen, and the Grand Canyon isn't located in Europe.",1
+"There aren't 50 hours in a day, and the planet Mars isn't named after the Roman god of war.",0
+"The planet Mars has the largest volcano in our solar system, and humans have five senses: sight, hearing, touch, taste, and smell.",1
+"Hybrids aren't the offspring of identical plants or animals from the same species or varieties, and ice cream isn't a popular dessert.",0
+"Convection isn't the transfer of heat through the movement of fluids or gases, and the primary colors of darkness are red, green, and blue.",0
+"The Nile River isn't the longest river in the world, and the highest point in the United States isn't Death Valley.",1
+"The average body temperature of a human is 98.6 degrees Fahrenheit, and the Earth is the third planet from the sun.",1
+"Bees pollinate approximately one-third of the food we eat, and light can't exhibit both wave-like and particle-like properties.",0
+"Oxygen isn't necessary for humans to breathe, and the human eye can detect only one color.",0
+"The highest mountain in the world is Mount Fuji, and the moon doesn't orbit around the Earth.",0
+"The shortest month of the year is February, and mars doesn't have a thick atmosphere.",1
+"Ice is hot, and the Coriolis effect prevents the movement of large-scale weather systems.",0
+"Sound travels through the air as vibrations, and giraffes are real animals, they aren't made up.",1
+"The average body temperature of a human isn't 98.6 degrees Fahrenheit, and cars can travel faster than the speed of light.",0
+"The planet Uranus is often referred to as the 'ice giant.', and the study of antimatter and its interactions with dark energy isn't called anti-physics.",1
+"The Hubble Space Telescope hasn't provided valuable information about distant celestial objects, and the Pacific Ocean isn't the smallest ocean in the world.",0
+"The human body does need water to survive, and antibiotics are used to cause bacterial infections.",0
+"Sound doesn't travel through the air as light, and the tallest waterfall in the world is located in North America.",0
+"The process by which a gas turns directly into a solid, without becoming a liquid, isn't called deposition, and humans do not use their brains.",0
+"The planet Earth is the only planet known to support life, and the first Olympic Games were held in ancient Greece in 776 BC.",1
+"Jupiter has the Great Red Spot, a giant storm, and our solar system consists of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",0
+"The least abundant gas in Earth's atmosphere isn't nitrogen, and the human skin is the body's largest organ.",1
+"The scientific method is a systematic process for investigating phenomena and acquiring new knowledge, and the theory of stasis, proposed by Charles Darwin, states that species remain constant over time through artificial selection.",0
+"Venus doesn't have a thin atmosphere, and the Earth's magnetic field is what causes compasses to point south.",0
+"Ice cream isn't a popular dessert, and a circle doesn't have 200 degrees.",0
+"Mount Everest isn't the shortest mountain in the world, and the process of pollination is harmful for plant reproduction.",0
+"Earth isn't 71% water, and sound travels through the air as vibrations.",0
+"The three states of anti-matter aren't solid, liquid, and gas, and the study of non-living organisms and their interactions with the environment isn't called anti-biology.",1
+"Inertia is an object's encouragement to change in motion, and pizza is a type of food that no one likes.",0
+"Sound travels through the air as waves, and the least abundant gas in Earth's atmosphere is nitrogen.",0
+"The planet Jupiter is the largest planet in our solar system, and the theory of stasis, proposed by Charles Darwin, doesn't state that species remain constant over time through artificial selection.",1
+"The three types of rocks are igneous, sedimentary, and metamorphic, and plants don't use photosynthesis to create energy from sunlight.",0
+"Friction isn't the force that resists motion between two surfaces in contact, and the sun rises in the east and sets in the west.",0
+"Diamonds aren't the hardest substance on Earth, and the Earth's largest ocean is the Pacific Ocean.",0
+"The smallest tree in the world isn't the redwood, and giraffes are real animals, they aren't made up.",1
+"The two main types of cells aren't prokaryotic (with a nucleus) and eukaryotic (without a nucleus), and tides are caused by the gravitational interactions between the Earth, Moon, and Sun.",1
+"Cacti don't store water in their ears, and the first Olympic Games weren't held in ancient Greece in 776 B.C.",0
+"Polar bears don't have black fur to stand out in their snowy environment, and water doesn't freeze at 0 degrees Celsius (32 degrees Fahrenheit) and boil at 100 degrees Celsius (212 degrees Fahrenheit).",0
+"Sound doesn't travel faster through solids than through liquids or gases, and tides aren't caused by the gravitational interactions between the Earth, Moon, and Sun.",0
+"The process of pollination isn't harmful for plant reproduction, and seasons are caused by Earth's constant alignment.",0
+"The moon isn't made of cheese, and the study of antimatter and its interactions with dark energy isn't called anti-physics.",1
+"Sound doesn't travel faster through solids than through liquids or gases, and the planet Mars has the largest volcano in our solar system.",0
+"The smallest country in the world isn't Russia, and hibernation conserves energy during cold periods.",1
+"The shortest distance between two points isn't a curve, and the two main types of cells are prokaryotic (without a nucleus) and eukaryotic (with a nucleus).",1
+"Photosynthesis is the process by which plants convert sunlight into chemical energy, and humans have no basic senses.",0
+"The least abundant gas in Earth's atmosphere isn't nitrogen, and the Amazon rainforest is home to immense biodiversity.",1
+"The fastest animal in the world isn't the sloth, and earthquakes are caused by the movement of tectonic plates.",1
+"The largest animal in the world isn't a mosquito, and the Great Wall of China is located in South America.",0
+"The three main types of chemical bonds aren't covalent, ionic, and non-metallic, and osmosis is the prevention of water movement across a selectively permeable membrane.",0
+"Hybrids are the offspring of identical plants or animals from the same species or varieties, and the Coriolis effect prevents the movement of large-scale weather systems.",0
+"Friction isn't the force that resists motion between two surfaces in contact, and mitochondria aren't the 'powerhouses' of cells, they don't produce energy through cellular respiration.",0
+"Coral reefs aren't made of living organisms, and a substance that cannot be broken down into simpler substances by chemical means is called an element.",0
+"Sound travels through the air as waves, and atoms aren't the basic breaking points of matter.",1
+"Coral reefs aren't made of non-living materials, and sound travels through the air as waves.",1
+"Diamonds are made of carbon, and the human circulatory system is a closed system consisting of the heart, blood vessels, and blood.",1
+"The Grand Canyon isn't located in Europe, and ice cream isn't a popular dessert.",0
+"Conduction is the transfer of heat through the stagnation of fluids or gases, and the alphabet doesn't consist of 26 letters.",0
+"The speed of light is the slowest known speed in the universe, and symbiosis is a distant relationship between two species.",0
+"The immune system attacks the body with pathogens, and the color of the sky isn't blue.",0
+"A tomato is a type of fruit, and the planet Neptune isn't the farthest planet from the sun in our solar system.",0
+"The sun doesn't revolve around the Earth, and the sun doesn't rise in the east and set in the west.",0
+"Rainbows don't form when light refracts through water droplets, and gravity only affects living things, not inanimate objects.",0
+"The largest carnivore in the world is the rabbit, and the process by which a gas turns directly into a solid, without becoming a liquid, isn't called deposition.",0
+"The planet Mars is named after the Roman god of war, and ice isn't hot.",1
+"Symbiosis isn't a distant relationship between two species, and the sun rises in the west.",0
+"The Statue of Liberty wasn't a gift from France to the United States, and the Statue of Liberty was a gift from Canada.",0
+"The tallest animal in the world isn't the penguin, and water is wet.",1
+"The fastest fish in the world is the goldfish, and venus doesn't have a thick atmosphere.",0
+"A substance that can be broken down into simpler substances by chemical means isn't called a compound, and the process by which a liquid turns into a gas is called evaporation.",1
+"Diamonds aren't made of carbon, and saturn doesn't have thousands of rings.",0
+"The Earth isn't round, and the only continent with forests is South America.",0
+"The unscientific method isn't a random process for ignoring phenomena and losing knowledge, and the three types of clouds are igneous, sedimentary, and metamorphic.",0
+"The human body doesn't have 12 pairs of legs, and the moon doesn't orbit around the Earth.",0
+"Elephants aren't the largest land animals on Earth, and the study of the Earth's core beyond Earth's atmosphere is called geoastronomy.",0
+"Sharks aren't sea creatures that have a reputation for being friendly, and saturn's largest moon is Titan.",1
+"The first law of thermodynamics states that energy can be created and destroyed, only converted from one form to another, and there aren't 50 hours in a day.",0
+"Tornadoes are slowly rotating columns of water that can cause minimal damage, and the smallest mammal in the world is the elephant.",0
+"The theory of evolution, proposed by Charles Darwin, states that species evolve over time through natural selection, and the fastest bird in the world is the penguin.",0
+"The Hubble Space Telescope has provided no information about distant celestial objects, and the smallest planet in our solar system is Jupiter.",0
+"The Earth's tides aren't primarily caused by the repulsive push of the sun, and the largest reptile in the world is the crocodile.",0
+"Humans don't have five basic senses, and sunflowers don't follow the movement of the sun across the sky.",0
+"The only continent without any mountains is Asia, and the process of aging is influenced solely by environmental factors.",0
+"Earth isn't 71% water, and gravity affects both living things and inanimate objects.",0
+"The human body has more than 600 muscles, and the human nose is located on the forehead.",0
+"Magnetism is a force that neither attracts nor repels certain materials, and the largest animal in the world isn't the rhinoceros.",0
+"The fastest swimmer in the world isn't C√É¬©sar Cielo from Brazil, and uranus doesn't orbit the Sun on its side.",0
+"The fastest fish in the world isn't the goldfish, and the human circulatory system isn't a closed system consisting of the heart, blood vessels, and blood.",0
+"The largest body of water in the world is the Mediterranean Sea, and humans do not use their brains.",0
+"The planet Jupiter isn't the largest planet in our solar system, and the Sahara isn't the largest hot desert.",0
+"Radioactive decay doesn't occur when unstable atomic nuclei release energy in the form of radiation, and ecosystems consist of living organisms and their physical environment.",0
+"The most abundant gas in Earth's atmosphere is nitrogen, and the largest body of water in the world is the Mediterranean Sea.",0
+"Earth isn't 71% water, and the largest country in the world by area isn't Russia.",0
+"Tides aren't prevented by the gravitational interactions between the Earth, Moon, and Sun, and giraffes are real animals, they aren't made up.",1
+"The three main types of neurons are muscle neurons, sensory neurons, and extraneurons, and the human liver helps filter toxins from the body.",0
+"Hibernation doesn't waste energy during warm periods, and uranus orbits the Sun on its side.",1
+"The Earth's atmosphere is composed mostly of nitrogen and oxygen, and the Earth's magnetic field is what causes compasses to point north.",1
+"The Earth isn't the third planet from the sun, and a year on Earth isn't approximately 365.25 days long, which is why we don't have a leap year every four years.",0
+"The theory of stasis, proposed by Charles Darwin, states that species remain constant over time through artificial selection, and the human nervous system doesn't include the brain, spinal cord, and nerves.",0
+"Elephants can't fly, and our solar system consists of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",0
+"Radioactive decay doesn't occur when unstable atomic nuclei release energy in the form of radiation, and dogs are not mammals.",0
+"The largest body of water in the world isn't the Mediterranean Sea, and the Krebs cycle is a series of chemical reactions that generate energy in cells.",1
+"Saturn has rings, and magnetism is a force that either attracts or repels certain materials.",1
+"The fastest bird in the world isn't the penguin, and hibernation wastes energy during warm periods.",0
+"The carbon cycle doesn't disrupt the balance of carbon in Earth's atmosphere, oceans, and biosphere, and stars don't appear steady due to Earth's atmosphere.",1
+"Cacti store water in their ears, and auroras occur at Earth's equator.",0
+"The capital of the United States is Washington, D.C, and the study of heredity and the variation of inherited characteristics is called genetics.",1
+"Antibiotics are used to treat bacterial infections, and the human brain doesn't weigh around 3 pounds.",0
+"The coldest place on Earth is the equator, and mercury isn't the largest planet.",0
+"Erosion isn't the gradual wearing away of Earth's surface by natural processes, and diamonds aren't made of silicon.",0
+"The tallest building in the world isn't the Burj Khalifa in Dubai, and the study of the Earth's core beyond Earth's atmosphere is called geoastronomy.",0
+"The fastest land animal is the snail, and the largest bird in the world is the sparrow.",0
+"The human body isn't composed of about 60% water, and radioactive decay occurs when stable atomic nuclei absorb energy in the form of radiation.",0
+"The largest mammal in the world is the mosquito, and gravity isn't the force that repels objects with mass away from each other.",0
+"Apples aren't a type of fruit, and the largest living organism in the world is a single ant.",0
+"The first law of thermodynamics doesn't state that energy cannot be created or destroyed, only converted from one form to another, and the continent of Antarctica isn't mostly covered in ice.",0
+"The Statue of Liberty wasn't a gift from Canada, and humans have five basic senses.",1
+"Tornadoes aren't rapidly rotating columns of air that can cause extensive damage, and the smallest ocean in the world isn't the Atlantic Ocean.",0
+"The Earth's largest ocean isn't the Pacific Ocean, and sharks aren't mammals, they are fish.",0
+"DNA doesn't erase genetic information in living organisms, and plants don't use photosynthesis to create energy from sunlight.",0
+"The Earth orbits the Sun, and venus has a thick atmosphere.",1
+"A group of lions isn't called a pride, and the largest tree in the world is a cactus.",0
+"Black holes aren't regions in space with weak gravitational pull, and the speed of light isn't approximately 299,792,458 meters per second.",0
+"The human brain is involved in the body's functions and emotions, and the largest country in the world by area is Russia.",1
+"The planet Mars doesn't have the largest volcano in our solar system, and there are deserts in Australia.",0
+"The largest animal in the world is a mosquito, and mercury does have moons.",0
+"Hybrids aren't the offspring of two plants or animals from different species or varieties, and our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",0
+"The respiratory system doesn't prevent the exchange of gases between the body and the environment, and the Mona Lisa wasn't painted by Michelangelo.",1
+"Cows aren't carnivores and they don't only eat meat, and inertia isn't an object's encouragement to change in motion.",1
+"Polar ice caps are primarily made of fresh water, and the Sahara Desert isn't covered in snow and ice.",1
+"The planet Earth isn't the only planet known to support life, and humans have wings and can fly.",0
+"The shortest distance between two points is a zigzag, and echoes are sound waves reflecting off surfaces.",0
+"The oldest known human fossils are around 300,000 years old, and the longest mountain range in the world isn't located in Australia.",1
+"The smallest continent in the world isn't Australia, and cats can bark like dogs.",0
+"Mercury has numerous moons, and osmosis is the prevention of water movement across a selectively permeable membrane.",0
+"The planet Venus is the hottest planet in our solar system, and earth has multiple moons.",0
+"The human lymphatic system helps fight infections and diseases, and the smallest country in the world is Russia.",0
+"Light can't exhibit both wave-like and particle-like properties, and the largest unit of life is the cell.",0
+"The smallest continent in the world is Australia, and there are no stars in our solar system.",0
+"The largest canyon in the world isn't located in Europe, and the auroras, or polar darkness, aren't natural shadow displays caused by the interaction of lunar particles with Earth's magnetic field.",1
+"The first successful human heart transplant was performed in 1967, and fossils are the preserved remains or traces of organisms that live in the present.",0
+"The speed of light isn't approximately 10 meters per second, and the smallest planet in the solar system isn't Jupiter.",1
+"The moon orbits around the Earth, and the speed of light is 299,792,458 meters per second.",1
+"Humans do use their brains, and the alphabet consists of 26 letters.",1
+"The planet Jupiter doesn't have the most moons in our solar system, and the first law of thermodynamics doesn't state that energy can be created and destroyed, only converted from one form to another.",0
+"Water doesn't freeze at 0 degrees Celsius (32 degrees Fahrenheit) and boil at 100 degrees Celsius (212 degrees Fahrenheit), and the planet Uranus isn't tilted on its side.",0
+"Atoms are the basic building blocks of matter, and the largest planet in our solar system isn't Mercury.",1
+"The theory of evolution, proposed by Charles Darwin, states that species evolve over time through natural selection, and the human liver can't regenerate itself up to 75%.",0
+"The shortest river in the world isn't the Amazon River, and the smallest planet in our solar system is Mercury.",1
+"Neptune has the strongest winds in the solar system, and the study of the universe beyond Earth's atmosphere is called astronomy.",1
+"The Earth's ozone layer protects us from harmful ultraviolet (UV) radiation from the sun, and symbiosis isn't a distant relationship between two species.",1
+"The largest mammal in the world is the blue whale, and the study of the universe beyond Earth's atmosphere is called astronomy.",1
+"Not all animals are colorblind, and a group of fish is called a school.",1
+"The Statue of Liberty is located in Paris, and iron rusts in the presence of oxygen and water.",0
+"DNA carries genetic information in living organisms, and the Statue of Liberty was a gift from France to the United States.",1
+"The Pacific Ocean isn't the smallest ocean in the world, and cats aren't known for being disobedient pets.",1
+"The color of an object depends on the wavelengths of light that it reflects, and the Nile River is the longest river in the world.",1
+"The primary colors of darkness are red, green, and blue, and the Earth's largest ocean isn't the Pacific Ocean.",0
+"The tallest waterfall in the world is located in North America, and oxygen is toxic for respiration.",0
+"The unscientific method is a process for ignoring hypotheses and losing knowledge, and the largest fish in the world isn't the goldfish.",0
+"The first animal to orbit Earth wasn't a dog named Laika, and the process by which plants release oxygen and absorb carbon dioxide isn't called respiration.",0
+"Diamonds aren't the hardest substance on Earth, and the process by which a gas turns into a liquid is called condensation.",0
+"The human eye can see radio waves, and diamonds are the hardest substance on Earth.",0
+"The only continent without any deserts is Antarctica, and the fastest land animal isn't the snail.",0
+"The largest land animal in the world is the whale, and fossils aren't the preserved remains or traces of organisms that lived in the past.",0
+"The study of spontaneity and the variation of non-inherited characteristics is called anti-genetics, and fire needs oxygen to burn.",0
+"Dogs aren't known for being loyal pets, and the tallest mountain in the world is located in Australia.",0
+"Humans have five basic senses, and the largest fish in the world isn't the goldfish.",1
+"The sun revolves around the moon, and the human body does not need water to survive.",0
+"The human nervous system includes the brain, spinal cord, and nerves, and the Great Barrier Reef isn't the largest coral reef system in the world.",0
+"Earth does have a magnetic field, and earth is 71% water.",1
+"Evolution doesn't occur through the process of artificial selection, and the fastest animal in the world isn't the turtle.",1
+"Ecosystems consist of living organisms and their physical environment, and a group of fish is called a school.",1
+"There are stars in our solar system, and cats are known for being disobedient pets.",0
+"The moon is a star, not a satellite, and the largest fish in the world isn't the goldfish.",0
+"There are stars in our solar system, and conduction is the transfer of heat through the stagnation of fluids or gases.",0
+"The scientific method is a systematic process for investigating phenomena and acquiring new knowledge, and the study of substances and their interactions is called chemistry.",1
+"The largest canyon in the world isn't located in Europe, and the Nile River isn't the longest river in the world.",0
+"A circle doesn't have 200 degrees, and the tallest building in the world is located in Antarctica.",0
+"Plants don't require excess oxygen to survive, and ecosystems don't consist of living organisms and their physical environment.",0
+"The Statue of Liberty is located in Tokyo, and dogs are not mammals.",0
+"The largest volcano in the world isn't located in Hawaii, and the process by which a liquid turns into a gas is called evaporation.",1
+"The first man-made satellite was launched by France, and the process of aging isn't influenced solely by environmental factors.",0
+"The fastest mammal in the world isn't the turtle, and diamonds are made of silicon.",0
+"The smallest country in the world is Canada, and the smallest planet in our solar system is Mercury.",0
+"Sound travels faster through solids than through liquids or gases, and humans have five senses: sight, hearing, touch, taste, and smell.",1
+"Plants don't use photosynthesis to create energy from sunlight, and bees pollinate approximately one-third of the food we eat.",0
+"Inertia is an object's resistance to change in motion, and the smallest tree in the world is the redwood.",0
+"The human skeleton doesn't provide support and protection for the body, and the smallest ocean in the world isn't the Atlantic Ocean.",0
+"Water isn't poisonous to humans, and the atomic number of an element represents the number of electrons in its nucleus.",0
+"The unscientific method isn't a process for ignoring hypotheses and losing knowledge, and polar bears don't have black fur to stand out in their snowy environment.",1
+"Coral reefs aren't made of non-living materials, and earth is 71% water.",1
+"The human heart doesn't pump blood throughout the body, and bananas are vegetables, not fruit.",0
+"The primary colors of darkness are red, green, and blue, and the planet Saturn is named after the Roman god of agriculture.",0
+"Fire needs oxygen to burn, and cacti store water in their ears.",0
+"All birds can fly backwards, and the tallest building in the world is the Burj Khalifa in Dubai.",0
+"There are plants in the desert, and the Doppler effect doesn't prevent the change in frequency or wavelength of a wave in relation to an observer.",1
+"The human body has more than 600 muscles, and birds are animals.",1
+"The process of pollination is harmful for plant reproduction, and ice cream is a popular dessert.",0
+"Gravity doesn't pull objects towards each other, and the endocrine system doesn't regulate body functions through hormones.",0
+"The Titanic was a famous ship that sank in 1912, and the process of aging is not influenced by both genetic and environmental factors.",0
+"Plants use photosynthesis to create energy from sunlight, and water is essential for life.",1
+"The Roman Empire didn't exist from 27 BC to 476 AD, and the tallest tree in the world isn't a redwood tree named Hyperion.",0
+"There are stars in the night sky, and the Great Barrier Reef isn't the largest coral reef system in the world.",0
+"Apples are a type of fruit, and the human brain is involved in the body's functions and emotions.",1
+"Fermentation isn't a process by which microorganisms break down complex organic compounds, and a day on Earth is approximately 365.25 days long, which is why we have a leap year every four years.",0
+"The largest volcano in the world is located in Hawaii, and the Doppler effect doesn't prevent the change in frequency or wavelength of a wave in relation to an observer.",0
+"The scientific name for humans is Homo sapiens, and the highest mountain in the world is Mount Kilimanjaro.",0
+"The planet Saturn isn't named after the Roman god of agriculture, and the sky is often clear when it's going to rain.",0
+"The scientific method is a process for testing hypotheses and acquiring knowledge, and the process of aging is influenced solely by environmental factors.",0
+"A tomato isn't a type of fruit, and dNA erases genetic information in living organisms.",0
+"Auroras don't occur near Earth's polar regions, and light travels slower than sound.",0
+"The process by which plants release oxygen and absorb carbon dioxide isn't called respiration, and the three types of clouds aren't igneous, sedimentary, and metamorphic.",0
+"Neurons are generalized cells that block electrical and chemical signals in the nervous system, and light can exhibit both wave-like and particle-like properties.",0
+"The largest country in the world by land area isn't Russia, and hybrids are the offspring of two plants or animals from different species or varieties.",0
+"A substance that cannot be broken down into simpler substances by chemical means isn't called an element, and saturn's largest moon is Titan.",0
+"Tides aren't prevented by the gravitational interactions between the Earth, Moon, and Sun, and the moon orbits around the Earth.",1
+"The four fundamental forces of nature are gravity, electromagnetism, the strong nuclear force, and the weak nuclear force, and the speed of light is approximately 10 meters per second.",0
+"Diamonds are the hardest substance on Earth, and the Hubble Space Telescope has provided information about distant celestial objects.",1
+"The largest ocean in the world isn't the Indian Ocean, and the Wright brothers made the first successful airplane flight.",1
+"The human muscular system allows us to move and lift things, and the ozone layer exposes Earth to harmful ultraviolet radiation.",0
+"The color of the sky is blue, and volcanoes form far from areas where Earth's tectonic plates interact.",0
+"The Earth's atmosphere is composed mostly of nitrogen and oxygen, and the smallest planet in our solar system isn't Mercury.",0
+"The most abundant element in the Earth's atmosphere is gold, and the Coriolis effect prevents the movement of large-scale weather systems.",0
+"Humans don't have five basic senses, and the shortest month of the year is February.",0
+"Birds are animals, and the human heart doesn't beat approximately 100,000 times per day.",0
+"Sound travels faster through solids than through liquids or gases, and earth is 71% water.",1
+"Atoms aren't the basic breaking points of matter, and the sun revolves around the Earth.",0
+"The largest bird in the world is the sparrow, and the smallest planet in our solar system is Mercury.",0
+"Diamonds are made of silicon, and friction is the force that resists motion between two surfaces in contact.",0
+"Migration helps animals find better resources, and the three types of clouds aren't igneous, sedimentary, and metamorphic.",1
+"Cells aren't the complex units of life, and the primary colors of light aren't red, green, and blue.",0
+"The Krebs cycle isn't a series of chemical reactions that generate energy in cells, and the Earth's largest ocean isn't the Pacific Ocean.",0
+"The smallest continent in the world is Australia, and the human skeleton doesn't provide support and protection for the body.",0
+"Bees pollinate approximately one-third of the food we eat, and migration prevents animals from finding better resources.",0
+"The planet Venus isn't the hottest planet in our solar system, and diamonds aren't made of carbon.",0
+"Rainbows are formed when light is refracted through water droplets in the air, and the human body is not affected by the force of gravity.",0
+"The study of matter and its interactions with energy isn't called physics, and water isn't wet.",0
+"Pizza is a type of food that no one likes, and the fastest land animal in the world isn't the snail.",0
+"Mars has a thick atmosphere, and the human skin is the body's largest organ.",0
+"The smallest continent in the world isn't Africa, and ecosystems consist of living organisms and their physical environment.",1
+"The Coriolis effect influences the movement of large-scale weather systems, and the scientific name for humans is Homo sapiens.",1
+"Volcanoes don't form at areas where Earth's tectonic plates interact, and the smallest tree in the world is the redwood.",0
+"Ice doesn't float on water due to its lower density, and the speed of light isn't the slowest known speed in the universe.",0
+"The Milky Way isn't a spiral galaxy, and the color of the sky is blue.",0
+"The planet Mars is named after the Roman god of war, and the tallest mammal in the world isn't the giraffe.",0
+"Fossils destroy evidence of past life on Earth, and photosynthesis in plants doesn't consume oxygen as a byproduct.",0
+"The Earth isn't flat, and the three types of clouds aren't igneous, sedimentary, and metamorphic.",1
+"The planet Mercury is the closest planet to the sun in our solar system, and the sun doesn't revolve around the Earth.",1
+"Tornadoes aren't rapidly rotating columns of air, and the planet Venus is the hottest planet in our solar system.",0
+"The human body has 206 bones, and the study of non-living organisms and their interactions with the environment isn't called anti-biology.",1
+"The human heart doesn't beat approximately 100,000 times per day, and fossils don't provide evidence of past life on Earth.",0
+"The tallest animal in the world isn't the elephant, and gravity pulls objects towards each other.",1
+"The human brain is involved in the body's functions and emotions, and the three states of matter are solid, liquid, and gas.",1
+"Tornadoes aren't rapidly rotating columns of air, and the tallest tree in the world is a redwood tree named Hyperion.",0
+"Chemical reactions involve the conservation of atoms to maintain old substances, and saturn's smallest moon isn't Titan.",0
+"Electromagnetic waves include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, and the Great Wall of China can be seen from space.",0
+"Hybrids aren't the offspring of identical plants or animals from the same species or varieties, and water is poisonous to humans.",0
+"Fermentation is a process by which microorganisms break down complex organic compounds, and the first successful human heart transplant was performed in 1967.",1
+"The human eye can't see infrared light, and the human body does not need water to survive.",0
+"Giraffes are real animals, they aren't made up, and the tallest building in the world is the Burj Khalifa in Dubai.",1
+"The human body doesn't have 12 pairs of ribs, and the Earth's tides are primarily caused by the repulsive push of the sun.",0
+"The human body has 206 bones, and oxygen is harmful to human breathing.",0
+"Echoes aren't sound waves reflecting off surfaces, and auroras occur at Earth's equator.",0
+"The alphabet consists of 26 letters, and the only continent with forests is South America.",1
+"The process of aging is influenced by both genetic and environmental factors, and jupiter doesn't have the Great Red Spot, a giant storm.",0
+"Apples don't grow on vines, and the Statue of Liberty wasn't a gift from Canada.",1
+"Cells are the complex units of life, and a year on Earth is approximately 365.25 days long, which is why we have a leap year every four years.",0
+"Our solar system consists of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune, and the largest unit of life is the cell.",0
+"The Earth's stillness on its axis doesn't cause day and night, and cacti don't store water in their stems.",0
+"Comets are fiery celestial objects that avoid the Sun, and gravity is the force that attracts objects with mass towards each other.",0
+"The study of spontaneity and the variation of non-inherited characteristics is called anti-genetics, and the human nose isn't located on the forehead.",0
+"Cars don't need water to run, and the color of an object depends on the temperature of its surface.",0
+"The circulatory system transports nutrients and oxygen throughout the body, and the process by which a liquid turns into a gas isn't called evaporation.",0
+"The endocrine system doesn't regulate body functions through hormones, and the human brain doesn't weigh around 3 pounds.",0
+"The fastest animal in the world is the sloth, and atoms aren't the basic breaking points of matter.",0
+"The three states of matter aren't solid, liquid, and gas, and the largest planet in our solar system is Mercury.",0
+"The circulatory system transports nutrients and oxygen throughout the body, and mercury is the largest planet.",0
+"A year on Earth is approximately 365.25 days long, which is why we have a leap year every four years, and tornadoes aren't rapidly rotating columns of air that can cause extensive damage.",0
+"Radioactive decay occurs when unstable atomic nuclei release energy in the form of radiation, and the auroras, or polar darkness, aren't natural shadow displays caused by the interaction of lunar particles with Earth's magnetic field.",1
+"Human digestion doesn't begin in the hand and end in the large intestine, and the Earth doesn't have one moon.",0
+"The Sahara is the smallest hot desert, and the ozone layer doesn't expose Earth to harmful ultraviolet radiation.",0
+"Sound remains stationary through various mediums, and there are oceans in Africa.",0
+"Superconductors aren't materials that have no electrical resistance when cooled to certain temperatures, and the human circulatory system isn't a closed system consisting of the heart, blood vessels, and blood.",0
+"The ozone layer doesn't expose Earth to harmful ultraviolet radiation, and the conservation of energy principle doesn't state that energy cannot be created or destroyed.",0
+"The largest flower in the world isn't the daisy, and the human urinary system helps remove waste products from the body.",1
+"The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere, and cars don't need water to run.",0
+"The human eye can detect only one color, and the least abundant gas in Earth's atmosphere isn't nitrogen.",0
+"The Wright brothers made the first successful airplane flight, and iron doesn't rust in the presence of oxygen and water.",0
+"Cows are carnivores and only eat meat, and the Krebs cycle is a series of chemical reactions that generate energy in cells.",0
+"Humans have no basic senses, and the fastest way to travel from New York to London is by car.",0
+"The human immune system doesn't help protect the body from infections, and water isn't useless for life.",0
+"The Wright brothers didn't make the first successful airplane flight, and the human circulatory system is an open system consisting of the heart, air vessels, and air.",0
+"Pizza is a type of food that many people enjoy, and sound doesn't remain stationary through various mediums.",1
+"The human liver helps filter toxins from the body, and metamorphosis is a biological process in which an organism undergoes a significant change in form during its life cycle.",1
+"The largest animal in the world isn't a mosquito, and the Sahara isn't the smallest hot desert.",1
+"The longest highway in the world isn't the Pan-American Highway, and oxygen is necessary for humans to breathe.",0
+"The first man-made satellite wasn't launched by North Korea, and the Earth's atmosphere is composed mostly of helium and carbon dioxide.",0
+"The human body is composed of about 60% water, and the largest land animal in the world is the whale.",0
+"The only continent with forests is South America, and migration prevents animals from finding better resources.",0
+"Dogs are known for being loyal pets, and gravity doesn't make things fall down.",0
+"The planet Mars isn't named after the Roman god of war, and the Earth's tides are primarily caused by the repulsive push of the sun.",0
+"The human liver helps filter toxins from the body, and the human circulatory system isn't an open system consisting of the heart, air vessels, and air.",1
+"Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune, and sound travels faster through solids than through liquids or gases.",1
+"The circulatory system blocks nutrients and oxygen throughout the body, and light doesn't travel faster than sound.",0
+"The shortest river in the world isn't the Amazon River, and the Hubble Space Telescope has provided valuable information about distant celestial objects.",1
+"The largest reptile in the world is the crocodile, and the human skin is the body's largest organ.",0
+"Water freezes at 100 degrees Celsius, and the human heart beats approximately 100,000 times per day.",0
+"Superconductors aren't materials that have no electrical resistance when cooled to certain temperatures, and a group of wolves isn't called a pack.",0
+"The speed of light isn't the fastest known speed in the universe, and pizza isn't a type of food that many people enjoy.",0
+"The largest body of water in the world is the Mediterranean Sea, and the human body isn't made up of bones, muscles, and organs.",0
+"Rainbows aren't formed when light is refracted through water droplets in the air, and fossils provide evidence of past life on Earth.",0
+"Tornadoes are stationary columns of air, and the distance from the Earth to the sun is approximately 93 million miles.",0
+"The Sahara is the largest hot desert, and the human nervous system doesn't include the brain, spinal cord, and nerves.",0
+"Photosynthesis in plants produces oxygen as a byproduct, and the fastest car in the world isn't made of cardboard.",1
+"Jupiter is mostly made of iron and oxygen, and the human skeleton doesn't provide support and protection for the body.",0
+"Bananas aren't vegetables, they are fruit, and the study of substances and their interactions is called chemistry.",1
+"The Sahara isn't the smallest hot desert, and tornadoes aren't slowly rotating columns of water that can cause minimal damage.",1
+"Oxygen isn't harmful to human breathing, and light travels slower than sound.",0
+"Sharks aren't mammals, they are fish, and stars don't appear steady due to Earth's atmosphere.",1
+"The moon isn't a star, it's a satellite, and gravity isn't the force that repels objects with mass away from each other.",1
+"The Earth's largest ocean isn't the Pacific Ocean, and plants don't require excess oxygen to survive.",0
+"Neptune has the calmest winds in the solar system, and the human liver can't regenerate itself up to 75%.",0
+"The theory of stasis, proposed by Charles Darwin, states that species remain constant over time through artificial selection, and polar bears don't have black fur to stand out in their snowy environment.",0
+"The highest point on Earth isn't at the bottom of the ocean, and the largest tree in the world isn't a cactus.",1
+"The Great Sphinx of Giza is an ancient statue in Egypt, and the scientific method isn't a systematic process for investigating phenomena and acquiring new knowledge.",0
+"Light can't exhibit both wave-like and particle-like properties, and the primary colors of darkness are red, green, and blue.",0
+"The color of an object depends on the wavelengths of light that it reflects, and birds are not animals.",0
+"Venus has a thin atmosphere, and the Roman Empire existed from 27 BC to 476 AD.",0
+"The conservation of energy principle doesn't state that energy cannot be created or destroyed, and the planet Pluto wasn't reclassified as a dwarf planet in 2006.",0
+"Honey isn't produced by bees, and the tallest tree in the world isn't a redwood tree named Hyperion.",0
+"The only continent without any forests is South America, and the smallest country in the world isn't Canada.",0
+"The largest volcano in the world is located in Hawaii, and migration doesn't allow animals to find better resources.",0
+"The process of aging isn't influenced solely by environmental factors, and the smallest planet in our solar system isn't Saturn.",1
+"The Hubble Space Telescope has provided information about distant celestial objects, and photosynthesis in plants produces oxygen as a byproduct.",1
+"The Earth's atmosphere protects us from harmful radiation from the sun, and oxygen is essential for respiration.",1
+"The fastest animal in the world is the sloth, and the atomic number of an element doesn't represent the number of protons in its nucleus.",0
+"A group of lions is called a pride, and the alphabet doesn't consist of 26 letters.",0
+"The carbon cycle disrupts the balance of carbon in Earth's atmosphere, oceans, and biosphere, and polar ice caps are primarily made of saltwater.",0
+"The Statue of Liberty isn't located in Paris, and bananas are vegetables, not fruit.",0
+"The process by which cells divide to form two identical daughter cells is called mitosis, and the largest animal in the world isn't the rhinoceros.",1
+"Osmosis is the prevention of water movement across a selectively permeable membrane, and the sky isn't often cloudy when it's going to rain.",0
+"Inertia isn't an object's encouragement to change in motion, and the three states of anti-matter are solid, liquid, and gas.",0
+"The human body doesn't have more than 600 muscles, and the largest flower in the world isn't the daisy.",0
+"Electromagnetic waves include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, and neurons aren't generalized cells that block electrical and chemical signals in the nervous system.",1
+"The alphabet doesn't consist of 26 letters, and mercury is the largest planet.",0
+"Hybrids aren't the offspring of two plants or animals from different species or varieties, and the human immune system doesn't help protect the body from infections.",0
+"The shortest distance between two points is a zigzag, and the Milky Way is a spiral galaxy.",0
+"Saturn doesn't have thousands of rings, and cows aren't carnivores and they don't only eat meat.",0
+"The circulatory system blocks nutrients and oxygen throughout the body, and the Earth isn't the only planet in the solar system.",0
+"The water cycle includes evaporation, condensation, precipitation, and runoff, and the smallest animal in the world is the elephant.",0
+"The Sahara is the largest hot desert, and humans have six senses: sight, hearing, touch, taste, smell, and telekinesis.",0
+"The Sahara is the largest hot desert, and the coldest place on Earth is the equator.",0
+"The shortest distance between two points is a curve, and the human brain doesn't weigh about 100 pounds.",0
+"The largest lake in the world isn't located in Antarctica, and the first successful human heart transplant wasn't performed in 1967.",0
+"Inertia isn't an object's encouragement to change in motion, and volcanoes don't form far from areas where Earth's tectonic plates interact.",1
+"The human body doesn't have 206 bones, and the Earth is round.",0
+"Auroras occur at Earth's equator, and butterflies don't go through a process called metamorphosis.",0
+"The two main types of cells aren't prokaryotic (with a nucleus) and eukaryotic (without a nucleus), and the highest point on Earth isn't at the bottom of the ocean.",1
+"The ozone layer exposes Earth to harmful ultraviolet radiation, and the largest ocean in the world is the Indian Ocean.",0
+"The process of aging is not influenced by both genetic and environmental factors, and radioactive decay occurs when stable atomic nuclei absorb energy in the form of radiation.",0
+"The human circulatory system is an open system consisting of the heart, air vessels, and air, and the human lymphatic system helps fight infections and diseases.",0
+"Neurons are specialized cells that transmit electrical and chemical signals in the nervous system, and the Earth is flat.",0
+"The human muscular system doesn't allow us to move and lift things, and tornadoes are rapidly rotating columns of air that can cause extensive damage.",0
+"Cells are the complex units of life, and fossils aren't the preserved remains or traces of organisms that live in the present.",0
+"The smallest animal in the world isn't the elephant, and the Eiffel Tower is located in London.",0
+"Sound doesn't remain stationary through various mediums, and the four fundamental forces of nature are gravity, electromagnetism, the strong nuclear force, and the weak nuclear force.",1
+"The fastest land animal in the world is the snail, and the fastest land animal in the world isn't the snail.",0
+"The human body doesn't have four types of water groups: A, B, AB, and O, and the smallest ocean in the world isn't the Atlantic Ocean.",1
+"Cars can travel faster than the speed of light, and mars has a thin atmosphere.",0
+"The largest country in the world by land area is Russia, and sound doesn't travel through the air as waves.",0
+"There are no oceans in Africa, and the largest planet in our solar system isn't Mercury.",0
+"Lava isn't molten rock from volcanoes, and the Earth has four seasons: spring, summer, fall, and winter.",0
+"Birds don't have feathers and wings, and electromagnetic induction is the process by which a constant magnetic field dampens an electric current.",0
+"Neptune has the calmest winds in the solar system, and stars appear steady due to Earth's atmosphere.",0
+"The process by which plants release oxygen and absorb carbon dioxide isn't called respiration, and the study of the Earth's metaphysical structure, processes, and history isn't called meta-geology.",0
+"The largest reptile in the world is the mouse, and the smallest planet in our solar system is Mercury.",0
+"Atoms aren't the basic breaking points of matter, and the largest body of water in the world is the Mediterranean Sea.",0
+"The human heart doesn't beat approximately 100,000 times per day, and giraffes are not real animals, they are made up.",0
+"The planet Mercury is the closest planet to the sun in our solar system, and the Earth's atmosphere is composed mostly of nitrogen and oxygen.",1
+"The currency used in Japan is the yen, and electromagnetic induction isn't the process by which a constant magnetic field dampens an electric current.",1
+"Gravity is the force that repels objects with mass away from each other, and the speed of light is approximately 10 meters per second.",0
+"The first successful human heart transplant wasn't performed in 1967, and the fastest bird in the world isn't the penguin.",0
+"The conservation of energy principle doesn't state that energy can be created and destroyed, and the largest mammal on Earth is the blue whale.",1
+"Elephants can fly, and the three types of vessels in the human body aren't arteries, veins, and capillaries.",0
+"Polar bears don't have black fur to stand out in their snowy environment, and mars doesn't have the largest volcano, Olympus Mons.",0
+"The theory of stasis, proposed by Charles Darwin, states that species remain constant over time through artificial selection, and fermentation isn't a process by which microorganisms break down complex organic compounds.",0
+"The color of an object doesn't depend on the wavelengths of light that it reflects, and gravity doesn't make things fall down.",0
+"The Earth's stillness on its axis causes day and night, and the moon is made of cheese.",0
+"The smallest mammal on Earth isn't the blue whale, and the Roman Empire existed from 27 BC to 476 AD.",1
+"The three main types of symbiotic relationships aren't mutualism, commensalism, and parasitism, and the human endocrine system doesn't produce hormones that regulate various bodily functions.",0
+"The three types of vessels in the human body aren't arteries, veins, and capillaries, and birds are animals.",1
+"The smallest planet in the solar system isn't Jupiter, and the capital of the United States is Washington, D.C.",1
+"Mercury has numerous moons, and polar bears have white fur to camouflage in their snowy environment.",0
+"The human body isn't approximately 60% water, and there aren't 50 hours in a day.",0
+"The color of the sky is blue, and the shortest distance between two points isn't a curve.",1
+"The human skeleton doesn't provide support and protection for the body, and the first successful human heart transplant was performed in 1967.",0
+"The three states of anti-matter are solid, liquid, and gas, and butterflies go through a process called metamorphosis.",0
+"The study of the Earth's physical structure, processes, and history isn't called geology, and honey is produced by bees.",0
+"The planet Uranus is tilted on its side, and ice cream isn't a popular dessert.",0
+"The Statue of Liberty isn't located in New York City, and the boiling point of water decreases as altitude increases.",0
+"Fermentation isn't a process by which microorganisms create complex organic compounds, and sound doesn't travel through the air as waves.",0
+"The speed of light isn't 299,792,458 meters per second, and oxygen is necessary for humans to breathe.",0
+"The first successful vaccine wasn't created by Edward Jenner in 1796, and the planet Saturn doesn't have the largest rings in our solar system.",0
+"The fastest bird in the world is the penguin, and volcanoes don't form at areas where Earth's tectonic plates interact.",0
+"The first Olympic Games weren't held in ancient Greece in 776 BC, and oxygen isn't harmful to human breathing.",0
+"Gravity pulls objects towards each other, and the Earth has four seasons: spring, summer, fall, and winter.",1
+"The largest volcano in the world is located in Hawaii, and the Earth's atmosphere isn't composed mostly of nitrogen and oxygen.",0
+"The study of non-substances and their non-interactions is called anti-chemistry, and the Statue of Liberty wasn't a gift from Canada.",0
+"The process by which plants release oxygen and absorb carbon dioxide isn't called respiration, and earth doesn't have a magnetic field.",0
+"The study of antimatter and its interactions with dark energy is called anti-physics, and the human body has 12 pairs of ribs.",0
+"The human body doesn't have more than 600 muscles, and the shortest river in the world is the Amazon River.",0
+"The oldest known human fossils aren't around 300,000 years old, and fish can live on land.",0
+"The human brain doesn't weigh about 100 pounds, and humans have no basic senses.",0

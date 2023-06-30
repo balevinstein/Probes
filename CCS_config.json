@@ -1,0 +1,12 @@
+{
+    "datasets": ["embeddings_neg_facts350m_4_rmv_period.csv", "embeddings_neg_companies350m_4_rmv_period.csv"],
+    "processed_dataset_dir": "processed_datasets",
+    "probes_dir": "CCSprobes",
+    "csv_save_path": "processed_datasets",
+    "model": "350m",
+    "layer": 4,
+    "rmv_period": true,
+    "prediction_dataset": "embeddings_capitals350m_4_rmv_period.csv",
+    "probe": "CCSprobe_350m_4_rp.pth",
+    "params": "norm_params_350m_4_rp.npz"
+}

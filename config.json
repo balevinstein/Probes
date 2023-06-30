@@ -1,0 +1,23 @@
+{
+    "notes": {
+      "Model options": "'6.7b', '2.7b', '1.3b', '350m' for OPT, and '7B', '13B', '30B', and '65B' for LLaMA", 
+      "true_false": "true if you want to add '_true_false' as suffix to dataset names for training"
+    },
+    "model": "6.7b",
+    "remove_period": true,
+    "test_first_only": false,
+    "save_probes": true,
+    "repeat_each": 10,
+    "probes_dir": "probes",
+    "layers_to_use": [-1, -4, -6, -8],
+    "layer": -4,
+    "list_of_datasets": ["facts", "elements"],
+    "dataset_path": "datasets",
+    "processed_dataset_path": "processed_datasets",
+    "true_false": true,
+    "batch_size": 32,
+    "gen_predictions_dataset": "embeddings_companies350m_4_rmv_period",
+    "gen_predictions_layer": -4,
+    "suffix_list": ["cities_rp", "facts_rp"]
+  }
+  
